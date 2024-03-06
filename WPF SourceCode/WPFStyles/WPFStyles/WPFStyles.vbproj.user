@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="Application.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="CustomControls.xaml.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="HotKey.xaml.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PageEg.xaml.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PageEg2.xaml.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PageEg3.xaml.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PageEg4.xaml.vb">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="CustomControls.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="HotKey.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LightWeightStyling.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PerControlStyling.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PageEg.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PageEg2.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PageEg3.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PageEg4.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+D:\FARRAGAUTUI\DYNAMICUI\ValidatePostTransaction\MatchingAddressess\bin\Debug\net6.0-windows\MatchingAddressess.deps.json
+D:\FARRAGAUTUI\DYNAMICUI\ValidatePostTransaction\MatchingAddressess\bin\Debug\net6.0-windows\MatchingAddressess.dll
+D:\FARRAGAUTUI\DYNAMICUI\ValidatePostTransaction\MatchingAddressess\bin\Debug\net6.0-windows\MatchingAddressess.pdb
+D:\FARRAGAUTUI\DYNAMICUI\ValidatePostTransaction\MatchingAddressess\obj\Debug\net6.0-windows\MatchingAddressess.csproj.AssemblyReference.cache
+D:\FARRAGAUTUI\DYNAMICUI\ValidatePostTransaction\MatchingAddressess\obj\Debug\net6.0-windows\Matching.g.cs
+D:\FARRAGAUTUI\DYNAMICUI\ValidatePostTransaction\MatchingAddressess\obj\Debug\net6.0-windows\MatchingAddressess_MarkupCompile.cache
+D:\FARRAGAUTUI\DYNAMICUI\ValidatePostTransaction\MatchingAddressess\obj\Debug\net6.0-windows\MatchingAddressess_MarkupCompile.lref
+D:\FARRAGAUTUI\DYNAMICUI\ValidatePostTransaction\MatchingAddressess\obj\Debug\net6.0-windows\Matching.baml
+D:\FARRAGAUTUI\DYNAMICUI\ValidatePostTransaction\MatchingAddressess\obj\Debug\net6.0-windows\MatchingAddressess.g.resources
+D:\FARRAGAUTUI\DYNAMICUI\ValidatePostTransaction\MatchingAddressess\obj\Debug\net6.0-windows\MatchingAddressess.GeneratedMSBuildEditorConfig.editorconfig
+D:\FARRAGAUTUI\DYNAMICUI\ValidatePostTransaction\MatchingAddressess\obj\Debug\net6.0-windows\MatchingAddressess.AssemblyInfoInputs.cache
+D:\FARRAGAUTUI\DYNAMICUI\ValidatePostTransaction\MatchingAddressess\obj\Debug\net6.0-windows\MatchingAddressess.AssemblyInfo.cs
+D:\FARRAGAUTUI\DYNAMICUI\ValidatePostTransaction\MatchingAddressess\obj\Debug\net6.0-windows\MatchingAddressess.csproj.CoreCompileInputs.cache
+D:\FARRAGAUTUI\DYNAMICUI\ValidatePostTransaction\MatchingAddressess\obj\Debug\net6.0-windows\MatchingAddressess.dll
+D:\FARRAGAUTUI\DYNAMICUI\ValidatePostTransaction\MatchingAddressess\obj\Debug\net6.0-windows\refint\MatchingAddressess.dll
+D:\FARRAGAUTUI\DYNAMICUI\ValidatePostTransaction\MatchingAddressess\obj\Debug\net6.0-windows\MatchingAddressess.pdb
+D:\FARRAGAUTUI\DYNAMICUI\ValidatePostTransaction\MatchingAddressess\obj\Debug\net6.0-windows\ref\MatchingAddressess.dll
