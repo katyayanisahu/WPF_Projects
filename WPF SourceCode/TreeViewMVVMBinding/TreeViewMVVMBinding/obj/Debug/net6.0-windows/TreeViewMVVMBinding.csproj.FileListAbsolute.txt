@@ -1,0 +1,36 @@
+D:\FARRAGAUTUI\TreeViewMVVMBinding\TreeViewMVVMBinding\bin\Debug\net6.0-windows\TreeViewMVVMBinding.deps.json
+D:\FARRAGAUTUI\TreeViewMVVMBinding\TreeViewMVVMBinding\bin\Debug\net6.0-windows\TreeViewMVVMBinding.dll
+D:\FARRAGAUTUI\TreeViewMVVMBinding\TreeViewMVVMBinding\bin\Debug\net6.0-windows\TreeViewMVVMBinding.pdb
+D:\FARRAGAUTUI\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\TreeViewMVVMBinding.csproj.AssemblyReference.cache
+D:\FARRAGAUTUI\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\TREEVIEW.g.cs
+D:\FARRAGAUTUI\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\FARRAGAUTUI\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\TreeViewMVVMBinding_MarkupCompile.cache
+D:\FARRAGAUTUI\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\TreeViewMVVMBinding_MarkupCompile.lref
+D:\FARRAGAUTUI\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\TREEVIEW.baml
+D:\FARRAGAUTUI\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\TreeViewMVVMBinding.g.resources
+D:\FARRAGAUTUI\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\TreeViewMVVMBinding.GeneratedMSBuildEditorConfig.editorconfig
+D:\FARRAGAUTUI\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\TreeViewMVVMBinding.AssemblyInfoInputs.cache
+D:\FARRAGAUTUI\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\TreeViewMVVMBinding.AssemblyInfo.cs
+D:\FARRAGAUTUI\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\TreeViewMVVMBinding.csproj.CoreCompileInputs.cache
+D:\FARRAGAUTUI\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\TreeViewMVVMBinding.dll
+D:\FARRAGAUTUI\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\refint\TreeViewMVVMBinding.dll
+D:\FARRAGAUTUI\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\TreeViewMVVMBinding.pdb
+D:\FARRAGAUTUI\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\ref\TreeViewMVVMBinding.dll
+D:\WPF,MVVM\TreeViewMVVMBinding (5)\TreeViewMVVMBinding\TreeViewMVVMBinding\bin\Debug\net6.0-windows\TreeViewMVVMBinding.deps.json
+D:\WPF,MVVM\TreeViewMVVMBinding (5)\TreeViewMVVMBinding\TreeViewMVVMBinding\bin\Debug\net6.0-windows\TreeViewMVVMBinding.dll
+D:\WPF,MVVM\TreeViewMVVMBinding (5)\TreeViewMVVMBinding\TreeViewMVVMBinding\bin\Debug\net6.0-windows\TreeViewMVVMBinding.pdb
+D:\WPF,MVVM\TreeViewMVVMBinding (5)\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\TreeViewMVVMBinding.csproj.AssemblyReference.cache
+D:\WPF,MVVM\TreeViewMVVMBinding (5)\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\TREEVIEW.g.cs
+D:\WPF,MVVM\TreeViewMVVMBinding (5)\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\WPF,MVVM\TreeViewMVVMBinding (5)\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\TreeViewMVVMBinding_MarkupCompile.cache
+D:\WPF,MVVM\TreeViewMVVMBinding (5)\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\TreeViewMVVMBinding_MarkupCompile.lref
+D:\WPF,MVVM\TreeViewMVVMBinding (5)\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\TREEVIEW.baml
+D:\WPF,MVVM\TreeViewMVVMBinding (5)\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\TreeViewMVVMBinding.g.resources
+D:\WPF,MVVM\TreeViewMVVMBinding (5)\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\TreeViewMVVMBinding.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF,MVVM\TreeViewMVVMBinding (5)\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\TreeViewMVVMBinding.AssemblyInfoInputs.cache
+D:\WPF,MVVM\TreeViewMVVMBinding (5)\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\TreeViewMVVMBinding.AssemblyInfo.cs
+D:\WPF,MVVM\TreeViewMVVMBinding (5)\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\TreeViewMVVMBinding.csproj.CoreCompileInputs.cache
+D:\WPF,MVVM\TreeViewMVVMBinding (5)\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\TreeViewMVVMBinding.dll
+D:\WPF,MVVM\TreeViewMVVMBinding (5)\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\refint\TreeViewMVVMBinding.dll
+D:\WPF,MVVM\TreeViewMVVMBinding (5)\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\TreeViewMVVMBinding.pdb
+D:\WPF,MVVM\TreeViewMVVMBinding (5)\TreeViewMVVMBinding\TreeViewMVVMBinding\obj\Debug\net6.0-windows\ref\TreeViewMVVMBinding.dll

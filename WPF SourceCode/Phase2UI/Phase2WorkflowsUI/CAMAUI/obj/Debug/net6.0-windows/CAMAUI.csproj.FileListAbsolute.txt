@@ -1,0 +1,16 @@
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\CAMAUI\bin\Debug\net6.0-windows\CAMAUI.deps.json
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\CAMAUI\bin\Debug\net6.0-windows\CAMAUI.dll
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\CAMAUI\bin\Debug\net6.0-windows\CAMAUI.pdb
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\CAMAUI\obj\Debug\net6.0-windows\CAMAUI.csproj.AssemblyReference.cache
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\CAMAUI\obj\Debug\net6.0-windows\CAMA.baml
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\CAMAUI\obj\Debug\net6.0-windows\CAMA.g.cs
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\CAMAUI\obj\Debug\net6.0-windows\CAMAUI_MarkupCompile.cache
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\CAMAUI\obj\Debug\net6.0-windows\CAMAUI.g.resources
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\CAMAUI\obj\Debug\net6.0-windows\CAMAUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\CAMAUI\obj\Debug\net6.0-windows\CAMAUI.AssemblyInfoInputs.cache
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\CAMAUI\obj\Debug\net6.0-windows\CAMAUI.AssemblyInfo.cs
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\CAMAUI\obj\Debug\net6.0-windows\CAMAUI.csproj.CoreCompileInputs.cache
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\CAMAUI\obj\Debug\net6.0-windows\CAMAUI.dll
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\CAMAUI\obj\Debug\net6.0-windows\refint\CAMAUI.dll
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\CAMAUI\obj\Debug\net6.0-windows\CAMAUI.pdb
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\CAMAUI\obj\Debug\net6.0-windows\ref\CAMAUI.dll

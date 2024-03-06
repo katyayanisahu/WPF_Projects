@@ -1,0 +1,37 @@
+﻿<ArcGIS defaultAssembly="AllocateNonMappedParcel.dll" defaultNamespace="AllocateNonMappedParcel" xmlns="http://schemas.esri.com/DADF/Registry" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.esri.com/DADF/Registry file:///C:/Program%20Files/ArcGIS/Pro/bin/ArcGIS.Desktop.Framework.xsd">
+  <AddInInfo id="{6126ec91-e984-4089-bdbc-9fe6993b8f47}" version="1.0" desktopVersion="3.0.36057">
+    <Name>AllocateNonMappedParcel</Name>
+    <Description>AllocateNonMappedParcel description</Description>
+    <Image>Images\AddinDesktop32.png</Image>
+    <Author>Techment Technology</Author>
+    <Company>Acme</Company>
+    <Date>12/12/2022 10:01:52 AM</Date>
+    <Subject>Framework</Subject>
+    <!-- Note subject can be one or more of these topics:
+                    Content, Framework, Editing, Geodatabase, Geometry, Geoprocessing, Layouts, Map Authoring, Map Exploration -->
+  </AddInInfo>
+  <modules>
+    <insertModule id="AllocateNonMappedParcel_Module" className="Module1" autoLoad="false" caption="Module1">
+      <!-- uncomment to have the control hosted on a separate tab-->
+      <tabs>
+        <!--<tab id="AllocateNonMappedParcel_Tab1" caption="New Tab">
+          <group refID="AllocateNonMappedParcel_Group1"/>
+        </tab>-->
+      </tabs>
+      <groups>
+        <!-- comment this out if you have no controls on the Addin tab to avoid
+              an empty group-->
+        <group id="AllocateNonMappedParcel_Group1" caption="Group 1" appearsOnAddInTab="true">
+          <!-- host controls within groups -->
+          <button refID="AllocateNonMappedParcel_NonMappedParcel" size="large" />
+        </group>
+      </groups>
+      <controls>
+        <!-- add your controls here -->
+        <button id="AllocateNonMappedParcel_NonMappedParcel" caption="NonMappedParcel" className="ShowNonMappedParcel" loadOnClick="true" smallImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonPurple16.png" largeImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonPurple32.png">
+          <tooltip heading="Tooltip Heading">Tooltip text<disabledText /></tooltip>
+        </button>
+      </controls>
+    </insertModule>
+  </modules>
+</ArcGIS>

@@ -1,0 +1,16 @@
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\AllocateNonMappedParcel\bin\Debug\net6.0-windows\AllocateNonMappedParcel.deps.json
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\AllocateNonMappedParcel\bin\Debug\net6.0-windows\AllocateNonMappedParcel.dll
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\AllocateNonMappedParcel\bin\Debug\net6.0-windows\AllocateNonMappedParcel.pdb
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\AllocateNonMappedParcel\obj\Debug\net6.0-windows\AllocateNonMappedParcel.csproj.AssemblyReference.cache
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\AllocateNonMappedParcel\obj\Debug\net6.0-windows\NonMappedParcel.baml
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\AllocateNonMappedParcel\obj\Debug\net6.0-windows\NonMappedParcel.g.cs
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\AllocateNonMappedParcel\obj\Debug\net6.0-windows\AllocateNonMappedParcel_MarkupCompile.cache
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\AllocateNonMappedParcel\obj\Debug\net6.0-windows\AllocateNonMappedParcel.g.resources
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\AllocateNonMappedParcel\obj\Debug\net6.0-windows\AllocateNonMappedParcel.GeneratedMSBuildEditorConfig.editorconfig
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\AllocateNonMappedParcel\obj\Debug\net6.0-windows\AllocateNonMappedParcel.AssemblyInfoInputs.cache
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\AllocateNonMappedParcel\obj\Debug\net6.0-windows\AllocateNonMappedParcel.AssemblyInfo.cs
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\AllocateNonMappedParcel\obj\Debug\net6.0-windows\AllocateNonMappedParcel.csproj.CoreCompileInputs.cache
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\AllocateNonMappedParcel\obj\Debug\net6.0-windows\AllocateNonMappedParcel.dll
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\AllocateNonMappedParcel\obj\Debug\net6.0-windows\refint\AllocateNonMappedParcel.dll
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\AllocateNonMappedParcel\obj\Debug\net6.0-windows\AllocateNonMappedParcel.pdb
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\AllocateNonMappedParcel\obj\Debug\net6.0-windows\ref\AllocateNonMappedParcel.dll

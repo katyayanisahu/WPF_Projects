@@ -1,0 +1,41 @@
+﻿<Window x:Class="ViewBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ViewBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <!--<Viewbox>
+            <Button Content="DEMO"></Button>
+        </Viewbox>-->
+        <DockPanel Width="250" Height="200">
+           
+            <StackPanel Orientation="Horizontal" DockPanel.Dock="Top" Background="LightBlue">
+                <Button Content="01" Margin="1"/>
+                <Button Content="02" Margin="1"/>
+                <Button Content="03" Margin="1 1 10 1"/>
+                <Button Content="04" Margin="1"/>
+                <Button Content="05" Margin="1"/>
+                <Button Content="06" Margin="1"/>
+            </StackPanel>
+
+          
+            
+            <StackPanel Orientation="Horizontal"  
+                    DockPanel.Dock="Bottom"  
+                    Background="Lightblue"  
+                    Height="25">
+                <TextBlock VerticalAlignment="Center">Processing</TextBlock>
+                <ProgressBar Value="75" Width="100" Margin="4"/>
+            </StackPanel>
+            <Grid>
+                <TextBlock>Content area</TextBlock>
+            </Grid>
+
+
+        </DockPanel>
+       
+    </Grid>
+</Window>

@@ -1,0 +1,17 @@
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\SelectParcel\bin\Debug\net6.0-windows\SelectParcel.deps.json
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\SelectParcel\bin\Debug\net6.0-windows\SelectParcel.dll
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\SelectParcel\bin\Debug\net6.0-windows\SelectParcel.pdb
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\SelectParcel\obj\Debug\net6.0-windows\SelectParcel.csproj.AssemblyReference.cache
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\SelectParcel\obj\Debug\net6.0-windows\ParcelList.baml
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\SelectParcel\obj\Debug\net6.0-windows\ParcelList.g.cs
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\SelectParcel\obj\Debug\net6.0-windows\SelectParcel_MarkupCompile.cache
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\SelectParcel\obj\Debug\net6.0-windows\SelectParcel.g.resources
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\SelectParcel\obj\Debug\net6.0-windows\SelectParcel.GeneratedMSBuildEditorConfig.editorconfig
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\SelectParcel\obj\Debug\net6.0-windows\SelectParcel.AssemblyInfoInputs.cache
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\SelectParcel\obj\Debug\net6.0-windows\SelectParcel.AssemblyInfo.cs
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\SelectParcel\obj\Debug\net6.0-windows\SelectParcel.csproj.CoreCompileInputs.cache
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\SelectParcel\obj\Debug\net6.0-windows\SelectParcel.dll
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\SelectParcel\obj\Debug\net6.0-windows\refint\SelectParcel.dll
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\SelectParcel\obj\Debug\net6.0-windows\SelectParcel.pdb
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\SelectParcel\obj\Debug\net6.0-windows\ref\SelectParcel.dll
+D:\FARRAGAUTUI\DYNAMICUI\AllocateNonMappedParcel\SelectParcel\obj\Debug\net6.0-windows\SelectParcel_MarkupCompile.lref

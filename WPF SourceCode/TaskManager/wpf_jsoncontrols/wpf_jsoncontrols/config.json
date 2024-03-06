@@ -1,0 +1,344 @@
+[
+
+  {
+    "ID": "1",
+    "Type": "CheckBox",
+    "Content": "Select Parents",
+    "Width": "32",
+    "Height": "15",
+    "HorizontalAlignment": "Left",
+    "row": 0,
+    "column": 1,
+    "ColumnSpan": 2
+
+  },
+
+  {
+    "ID": "2",
+    "Type": "CheckBox",
+    "Content": "Transaction Info",
+    "Width": "20",
+    "Height": "15",
+    "HorizontalAlignment": "Left",
+    "row": 1,
+    "column": 1,
+    "ColumnSpan": 2
+  },
+
+  {
+    "ID": "3",
+    "Type": "CheckBox",
+    "Content": "Split",
+    "Width": "32",
+    "Height": "15",
+    "HorizontalAlignment": "Left",
+    "row": 2,
+    "column": 1,
+    "ColumnSpan": 2
+  },
+  {
+    "ID": "4",
+    "Type": "CheckBox",
+    "Content": "Validate Factory Topology",
+    "Width": "32",
+    "Height": "15",
+    "HorizontalAlignment": "Left",
+    "row": 3,
+    "column": 1,
+    "ColumnSpan": 2
+  },
+  {
+    "ID": "5",
+    "Type": "CheckBox",
+    "Content": "Attribute",
+    "Width": "32",
+    "Height": "15",
+    "HorizontalAlignment": "Left",
+    "row": 4,
+    "column": 1,
+    "ColumnSpan": 2
+  },
+  {
+    "ID": "6",
+    "Type": "CheckBox",
+    "Content": "Edit Annotation(Optional)",
+    "Width": "32",
+    "Height": "15",
+    "HorizontalAlignment": "Left",
+    "row": 5,
+    "column": 1,
+    "ColumnSpan": 2
+  },
+  {
+    "ID": "7",
+    "Type": "CheckBox",
+    "Content": "Assign Physical Address",
+    "Width": "32",
+    "Height": "15",
+    "HorizontalAlignment": "Left",
+    "row": 6,
+    "column": 1,
+    "ColumnSpan": 2
+  },
+  {
+    "ID": "8",
+    "Type": "CheckBox",
+    "Content": "Perform Overlay Calculations",
+    "Width": "32",
+    "Height": "15",
+    "HorizontalAlignment": "Left",
+    "row": 7,
+    "column": 1,
+    "ColumnSpan": 2
+  },
+
+
+  {
+    "ID": "9",
+    "Type": "TextBox",
+    "Content": "Click button to add parents",
+    //"Width": "500",
+    "Height": "20",
+    "HorizontalAlignment": "Right",
+    "row": 0,
+    "column": 2,
+    //"ColumnSpan": 4,
+    "Margin": "0, 5, 0, 5",
+    "ColumnSpan": 3
+  },
+  {
+    "ID": "10",
+    "Type": "TextBox",
+    "Content": "  ",
+    "Width": "500",
+    "Height": "20",
+    "HorizontalAlignment": "Right",
+    "row": 1,
+    "column": 2,
+    "ColumnSpan": 3
+    // "Margin": "0 5 0 5"
+  },
+  {
+    "ID": "11",
+    "Type": "TextBox",
+    "Content": " ",
+    "Width": "500",
+    "Height": "20",
+    "HorizontalAlignment": "Right",
+    "row": 2,
+    "column": 2,
+    "ColumnSpan": 3
+
+  },
+  {
+    "ID": "12",
+    "Type": "TextBox",
+    "Content": "  ",
+    "Width": "500",
+    "Height": "20",
+    "HorizontalAlignment": "Right",
+    "row": 3,
+    "column": 2,
+    "ColumnSpan": 3
+  },
+
+  {
+    "ID": "13",
+    "Type": "TextBox",
+    "Content": "  ",
+    "Width": "500",
+    "Height": "20",
+    "HorizontalAlignment": "Right",
+    "row": 4,
+    "column": 2,
+    "ColumnSpan": 3
+  },
+  {
+    "ID": "14",
+    "Type": "TextBox",
+    "Content": "  ",
+    "Width": "500",
+    "Height": "20",
+    "HorizontalAlignment": "Right",
+
+    "row": 5,
+    "column": 2,
+    "ColumnSpan": 3
+  },
+  {
+    "ID": "15",
+    "Type": "TextBox",
+    "Content": "  ",
+    "Width": "500",
+    "Height": "20",
+    "HorizontalAlignment": "Right",
+    "row": 6,
+    "column": 2,
+    "ColumnSpan": 3
+  },
+  {
+    "ID": "16",
+    "Type": "TextBox",
+    "Content": "  ",
+    "Width": "500",
+    "Height": "20",
+    "HorizontalAlignment": "Right",
+    "row": 7,
+    "column": 2,
+    "ColumnSpan": 3
+  },
+  {
+    "ID": "17",
+    "Type": "Button",
+    "Content": "View Deed",
+    "Width": "80",
+    "Height": "20",
+    "HorizontalAlignment": "Left",
+    "row": 12,
+    "column": 0,
+    "ColumnSpan": 2
+    //"Margin": [ 0, 70, 5, 70 ]
+
+  },
+  {
+    "ID": "18",
+    "Type": "Button",
+    "Content": "Zoom to transaction",
+    "Width": "120",
+    "Height": "20",
+    "row": 12,
+    "column": 1,
+    "ColumnSpan": 2
+    //"Margin": [ 5, 70, 5, 70 ]
+
+  },
+  {
+    "ID": "19",
+    "Type": "Button",
+    "Content": "Start Editing",
+    "Width": "100",
+    "Height": "20",
+    "row": 12,
+    "column": 2,
+    "ColumnSpan": 1
+    //"Margin": [ 5, 70, 5, 70 ]
+  },
+  {
+    "ID": "20",
+    "Type": "Button",
+    "Content": "Stop Editing",
+    "Width": "80",
+    "Height": "20",
+    "row": 12,
+    "column": 3,
+    "ColumnSpan": 1
+    //"Margin": [ 5, 70, 5, 70 ]
+  },
+  {
+    "ID": "21",
+    "Type": "Button",
+    "Content": "Validate and post",
+    "Width": "110",
+    "Height": "20",
+    "row": 12,
+    "column": 4,
+    "ColumnSpan": 1
+    //"Margin": [ 5, 70, 5, 70 ]
+
+  },
+  {
+    "ID": "22",
+    "Type": "Button",
+    "Content": "Suspend Class",
+    "Width": "90",
+    "Height": "20",
+    "row": 12,
+    "column": 5,
+    "ColumnSpan": 1
+    //"Margin": [ 5, 70, 5, 70 ]
+  },
+
+  {
+    "ID": "23",
+    "Type": "image",
+    "Path": "Images/img1.png",
+    "Width": "30",
+    "Height": "20",
+    "HorizontalAlignment": "Left",
+    "row": 0,
+    "column": 0
+  },
+  {
+    "ID": "24",
+    "Type": "image",
+    "Path": "Images/img10.jpg",
+    "Width": "30",
+    "Height": "20",
+    "HorizontalAlignment": "Left",
+    "row": 1,
+    "column": 0
+  },
+  {
+    "ID": "25",
+    "Type": "image",
+    "Path": "Images/img4.png",
+    "Width": "30",
+    "Height": "20",
+    "HorizontalAlignment": "Left",
+    "row": 2,
+    "column": 0
+  },
+  {
+    "ID": "26",
+    "Type": "image",
+    "Path": "Images/img6.jpg",
+    "Width": "30",
+    "Height": "20",
+    "HorizontalAlignment": "Left",
+    "row": 3,
+    "column": 0
+  },
+  {
+    "ID": "27",
+    "Type": "image",
+    "Path": "Images/img8.png",
+    "Width": "30",
+    "Height": "20",
+    "HorizontalAlignment": "Left",
+    "row": 4,
+    "column": 0
+  },
+  {
+    "ID": "28",
+    "Type": "image",
+    "Path": "Images/img9.png",
+    "Width": "30",
+    "Height": "20",
+    "HorizontalAlignment": "Left",
+    "row": 5,
+    "column": 0
+  },
+  {
+    "ID": "29",
+    "Type": "image",
+    "Path": "Images/img7.png",
+    "Width": "30",
+    "Height": "20",
+    "HorizontalAlignment": "Left",
+    "row": 6,
+    "column": 0
+  },
+  {
+    "ID": "30",
+    "Type": "image",
+    "Path": "Images/img8.png",
+    "Width": "30",
+    "Height": "20",
+    "HorizontalAlignment": "Left",
+    "row": 7,
+    "column": 0
+  }
+
+
+
+]  

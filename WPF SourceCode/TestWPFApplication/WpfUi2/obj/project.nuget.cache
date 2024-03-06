@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RDsWVd0gD/Qjl75V6OyxoXdprMsYTVrzKnc8n2BgT55LNNM7MOe1vvFzYEEfKz1YT5bMLTsTZI3HDGv18Tda2w==",
+  "success": true,
+  "projectFilePath": "D:\\WPF,MVVM\\FARRAGAUTUI\\DYNAMICUI\\WPF Task 1 and 2\\TestWPFApplication\\WpfUi2\\WpfUi2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Techment Technology\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Techment Technology\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Techment Technology\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Techment Technology\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

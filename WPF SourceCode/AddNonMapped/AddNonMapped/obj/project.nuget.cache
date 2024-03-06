@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "TYtrOtuZwbU5gtqBUjbRadqf0SKP0CZKHXUb7UNyebVyRr15Y92r4QRI0fkY+icVMxelYqoLGwfqukscwkNm7Q==",
+  "success": true,
+  "projectFilePath": "D:\\WPF,MVVM\\FARRAGAUTUI\\DYNAMICUI\\AddNonMapped\\AddNonMapped\\AddNonMapped.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Techment Technology\\.nuget\\packages\\extended.wpf.toolkit\\4.5.0\\extended.wpf.toolkit.4.5.0.nupkg.sha512",
+    "C:\\Users\\Techment Technology\\.nuget\\packages\\numericupdown\\1.0.0\\numericupdown.1.0.0.nupkg.sha512",
+    "C:\\Users\\Techment Technology\\.nuget\\packages\\syncfusion.licensing\\21.2.4\\syncfusion.licensing.21.2.4.nupkg.sha512",
+    "C:\\Users\\Techment Technology\\.nuget\\packages\\syncfusion.shared.wpf\\21.2.4\\syncfusion.shared.wpf.21.2.4.nupkg.sha512",
+    "C:\\Users\\Techment Technology\\.nuget\\packages\\wpfextendedcontrols\\1.0.4\\wpfextendedcontrols.1.0.4.nupkg.sha512",
+    "C:\\Users\\Techment Technology\\.nuget\\packages\\wpfnumericupdn\\1.0.0\\wpfnumericupdn.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NumericUpDown 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "NumericUpDown",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}

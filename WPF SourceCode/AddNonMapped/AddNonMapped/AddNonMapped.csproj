@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Extended.Wpf.Toolkit" Version="4.5.0" />
+    <PackageReference Include="NumericUpDown" Version="1.0.0" />
+    <PackageReference Include="Syncfusion.Shared.WPF" Version="21.2.4" />
+    <PackageReference Include="WpfExtendedControls" Version="1.0.4" />
+    <PackageReference Include="WPFNumericUpDn" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>

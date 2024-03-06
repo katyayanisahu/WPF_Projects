@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "W4V3GRTy02NfysSSCgT3a9dx6zGm1uz4sc7W9lys3U/njXdsSXWvM5d6RxLqw/9mz+dHQONZBc5t/k8pXxE4bw==",
+  "success": true,
+  "projectFilePath": "D:\\WPF,MVVM\\TreeViewMVVMBinding (5)\\TreeViewMVVMBinding\\TreeViewMVVMBinding\\TreeViewMVVMBinding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Techment Technology\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Techment Technology\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Techment Technology\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

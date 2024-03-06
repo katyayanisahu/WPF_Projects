@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>wpf_jsoncontrols</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>dd2f4bda-0cb6-4897-b5df-f52e2daee20d</ProjectGuid>
+  <FullPath>D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\.sonarqube\conf\0\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\.sonarqube\out\0\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\.sonarqube\out\0</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>net5.0-windows</TargetFramework>
+</ProjectInfo>

@@ -1,0 +1,37 @@
+[
+  //{
+  //  "ConnectionStrings": {
+  //    "WPF_Connection": "Data Source=DESKTOP-BH77SS1\\SQLEXPRESS01;Initial Catalog=studentDB;User ID=KA2;Password=kirti@2004;TrustServerCertificate=True;"
+  //  }
+  //}
+
+
+  //{
+  //  "id": 8,
+  //  "name": "Kanak",
+  //  "course": "PHP"
+  //},
+  //{
+  //  "id": 9,
+  //  "name": "Rohan",
+  //  "course": "Java"
+  //},
+  //{
+  //  "id": 10,
+  //  "name": "Puja",
+  //  "course": "C#"
+  //},
+
+  {
+    "id": 11,
+    "name": "Suman",
+    "course": "C#"
+
+  },
+  {
+    "id": 12,
+    "name": "Jackson",
+    "course": "Java"
+
+  }
+]

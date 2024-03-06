@@ -1,0 +1,188 @@
+{
+		"OverlayTools": {
+			"FormConfigurations": {
+				"Form": [
+					{
+						"OverlayFeatureClasses": "PS.Denali.dll,PS.Denali.Helper_Tools.OverlayDataAnalyzer",
+						"Name": "OverlayForm",
+						"FeatureClass": [
+							{
+								"Location": "PS.COMBINED_ZONING",
+								"Name": "ZoningClass",
+								"Shapetype": "esriGeometryPolygon",
+								"Fields": {
+									"Field": "ZONING_COD"
+								}
+							},
+							{
+								"Location": "PS.COMBINED_ZONING",
+								"Name": "PlanningJurisdictionClass",
+								"Shapetype": "esriGeometryPolygon",
+								"Fields": {
+									"Field": "DISTRICT"
+								}
+							},
+							{
+								"Location": "PS.TAX_DISTRICTS",
+								"Name": "CorpLimitClass",
+								"Shapetype": "esriGeometryPolygon",
+								"Fields": {
+									"Field": "CITY_CODE"
+								}
+							},
+							{
+								"Location": "PS.TAX_DISTRICTS",
+								"Name": "FireDistrictsClass",
+								"Shapetype": "esriGeometryPolygon",
+								"Fields": {
+									"Field": "FIRE_CODE"
+								}
+							},
+							{
+								"Location": "PS.FLOOD_MAPS",
+								"Name": "FloodPlainClass",
+								"Shapetype": "esriGeometryPolygon",
+								"Fields": {
+									"Field": "ZONE_LID"
+								}
+							},
+							{
+								"Location": "PS.SOILS",
+								"Name": "SoilClass",
+								"Shapetype": "esriGeometryPolygon",
+								"Fields": {
+									"Field": "DSL_NAME"
+								}
+							}
+						]
+
+					}
+				]
+			}
+		},
+		"DataGridViewConfigurations": {
+			"DataGridView": [
+				{
+					"FeatureClassName": "ZoningClass",
+					"Name": "dgvZoning",
+					"TabName": "Zoning",
+					"DisplayColumns": {
+						"Column": [
+							{
+								"Name": "PARCEL_PK"
+							},
+							{
+								"Alias": "ZONING",
+								"Name": "ZONING_TYPE"
+							},
+							{
+								"Alias": "ZONING_AREA",
+								"Name": "ZONING_AREA_PERCENTAGE_text"
+							}
+						]
+					}
+				},
+				{
+					"FeatureClassName": "PlanningJurisdictionClass",
+					"Name": "dgvPlanningJurisdiction",
+					"TabName": "PJ",
+					"DisplayColumns": {
+						"Column": [
+							{
+								"Name": "PARCEL_PK"
+							},
+							{
+								"Alias": "PLANNING",
+								"Name": "PJ_TYPE"
+							},
+							{
+								"Alias": "PLANNING_AREA",
+								"Name": "PJ_AREA_PERCENTAGE"
+							}
+						]
+					}
+				},
+				{
+					"FeatureClassName": "CorpLimitClass",
+					"Name": "dgvCorpLimit",
+					"TabName": "City Limit",
+					"DisplayColumns": {
+						"Column": [
+							{
+								"Name": "PARCEL_PK"
+							},
+							{
+								"Alias": "City_Zone",
+								"Name": "CORP_LIMIT_CODE"
+							},
+							{
+								"Alias": "City_Area",
+								"Name": "CORP_LIMIT_AREA_PERCENTAGE"
+							}
+						]
+					}
+				},
+				{
+					"FeatureClassName": "FireDistrictsClass",
+					"Name": "dgvFireDist",
+					"TabName": "Fire Dist",
+					"DisplayColumns": {
+						"Column": [
+							{
+								"Name": "PARCEL_PK"
+							},
+							{
+								"Alias": "Fire_Code",
+								"Name": "FIRE_DISTRICT_CODE"
+							},
+							{
+								"Alias": "Fire_Area",
+								"Name": "FIRE_DISTRICT_AREA_PERCENTAGE"
+							}
+						]
+					}
+				},
+				{
+					"FeatureClassName": "FloodPlainClass",
+					"Name": "dgvFlood",
+					"TabName": "Flood",
+					"DisplayColumns": {
+						"Column": [
+							{
+								"Name": "PARCEL_PK"
+							},
+							{
+								"Alias": "Flood_Zone",
+								"Name": "Flood_Zone"
+							},
+							{
+								"Alias": "Flood_Area",
+								"Name": "FLOOD_PLAIN_AREA_PERCENTAGE"
+							}
+						]
+					}
+				},
+				{
+					"FeatureClassName": "SoilClass",
+					"Name": "dgvSoil",
+					"TabName": "Soil",
+					"DisplayColumns": {
+						"Column": [
+							{
+								"Name": "PARCEL_PK"
+							},
+							{
+								"Name": "SOIL_CODE"
+							},
+							{
+								"Alias": "SOIL_AREA",
+								"Name": "SOIL_AREA_PERCENTAGE"
+							}
+						]
+					}
+				}
+
+			]
+		}
+	}
+

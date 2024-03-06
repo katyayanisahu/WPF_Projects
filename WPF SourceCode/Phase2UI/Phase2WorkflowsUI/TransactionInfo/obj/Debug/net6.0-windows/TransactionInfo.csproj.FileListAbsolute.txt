@@ -1,0 +1,16 @@
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\TransactionInfo\bin\Debug\net6.0-windows\TransactionInfo.deps.json
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\TransactionInfo\bin\Debug\net6.0-windows\TransactionInfo.dll
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\TransactionInfo\bin\Debug\net6.0-windows\TransactionInfo.pdb
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\TransactionInfo\obj\Debug\net6.0-windows\TransactionInfo.csproj.AssemblyReference.cache
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\TransactionInfo\obj\Debug\net6.0-windows\TransactionInformation.baml
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\TransactionInfo\obj\Debug\net6.0-windows\TransactionInformation.g.cs
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\TransactionInfo\obj\Debug\net6.0-windows\TransactionInfo_MarkupCompile.cache
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\TransactionInfo\obj\Debug\net6.0-windows\TransactionInfo.g.resources
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\TransactionInfo\obj\Debug\net6.0-windows\TransactionInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\TransactionInfo\obj\Debug\net6.0-windows\TransactionInfo.AssemblyInfoInputs.cache
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\TransactionInfo\obj\Debug\net6.0-windows\TransactionInfo.AssemblyInfo.cs
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\TransactionInfo\obj\Debug\net6.0-windows\TransactionInfo.csproj.CoreCompileInputs.cache
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\TransactionInfo\obj\Debug\net6.0-windows\TransactionInfo.dll
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\TransactionInfo\obj\Debug\net6.0-windows\refint\TransactionInfo.dll
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\TransactionInfo\obj\Debug\net6.0-windows\TransactionInfo.pdb
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\TransactionInfo\obj\Debug\net6.0-windows\ref\TransactionInfo.dll

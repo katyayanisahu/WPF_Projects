@@ -1,0 +1,150 @@
+D:\SnehaWorkspace\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.exe
+D:\SnehaWorkspace\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.deps.json
+D:\SnehaWorkspace\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.runtimeconfig.json
+D:\SnehaWorkspace\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.runtimeconfig.dev.json
+D:\SnehaWorkspace\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.dll
+D:\SnehaWorkspace\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\ref\wpf_jsoncontrols.dll
+D:\SnehaWorkspace\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.pdb
+D:\SnehaWorkspace\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\Prism.dll
+D:\SnehaWorkspace\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.csproj.AssemblyReference.cache
+D:\SnehaWorkspace\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\SnehaWorkspace\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\App.g.cs
+D:\SnehaWorkspace\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols_MarkupCompile.cache
+D:\SnehaWorkspace\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols_MarkupCompile.lref
+D:\SnehaWorkspace\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\MainWindow.baml
+D:\SnehaWorkspace\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.g.resources
+D:\SnehaWorkspace\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.GeneratedMSBuildEditorConfig.editorconfig
+D:\SnehaWorkspace\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.AssemblyInfoInputs.cache
+D:\SnehaWorkspace\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.AssemblyInfo.cs
+D:\SnehaWorkspace\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.csproj.CoreCompileInputs.cache
+D:\SnehaWorkspace\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.csproj.CopyComplete
+D:\SnehaWorkspace\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.dll
+D:\SnehaWorkspace\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\ref\wpf_jsoncontrols.dll
+D:\SnehaWorkspace\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.pdb
+D:\SnehaWorkspace\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.genruntimeconfig.cache
+D:\SnehaWorkspace\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\SnehaWorkspace\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\config.json
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\config.json
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.exe
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.deps.json
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.runtimeconfig.json
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.runtimeconfig.dev.json
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.dll
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.pdb
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\Prism.dll
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.csproj.AssemblyReference.cache
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols_MarkupCompile.cache
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols_MarkupCompile.lref
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.g.resources
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.AssemblyInfoInputs.cache
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.AssemblyInfo.cs
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.csproj.CoreCompileInputs.cache
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.csproj.CopyComplete
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.dll
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.pdb
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.genruntimeconfig.cache
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\ref\wpf_jsoncontrols.dll
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Techment Technology\Downloads\wpf_jsoncontrols\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\ref\wpf_jsoncontrols.dll
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\config.json
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.exe
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.deps.json
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.runtimeconfig.json
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.runtimeconfig.dev.json
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.dll
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\ref\wpf_jsoncontrols.dll
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.pdb
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\Prism.dll
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.csproj.AssemblyReference.cache
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols_MarkupCompile.cache
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols_MarkupCompile.lref
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.g.resources
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.AssemblyInfoInputs.cache
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.AssemblyInfo.cs
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.csproj.CoreCompileInputs.cache
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.csproj.CopyComplete
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.dll
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\ref\wpf_jsoncontrols.dll
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.pdb
+C:\Users\Techment Technology\Downloads\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.genruntimeconfig.cache
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\config.json
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.exe
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.deps.json
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.runtimeconfig.json
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.runtimeconfig.dev.json
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.dll
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.pdb
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\Prism.dll
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.csproj.AssemblyReference.cache
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols_MarkupCompile.cache
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols_MarkupCompile.lref
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.g.resources
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.AssemblyInfoInputs.cache
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.AssemblyInfo.cs
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.csproj.CoreCompileInputs.cache
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.csproj.CopyComplete
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.dll
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\ref\wpf_jsoncontrols.dll
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.pdb
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.genruntimeconfig.cache
+C:\Users\Techment Technology\source\repos2\UIFaragaut\Sprint1,2\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\refint\wpf_jsoncontrols.dll
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\config.json
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.exe
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.deps.json
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.runtimeconfig.json
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.runtimeconfig.dev.json
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.dll
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\wpf_jsoncontrols.pdb
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\Prism.dll
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.csproj.AssemblyReference.cache
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\App.g.cs
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols_MarkupCompile.cache
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols_MarkupCompile.lref
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\MainWindow.baml
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.g.resources
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.GeneratedMSBuildEditorConfig.editorconfig
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.AssemblyInfoInputs.cache
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.AssemblyInfo.cs
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.csproj.CoreCompileInputs.cache
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.csproj.CopyComplete
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.dll
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\ref\wpf_jsoncontrols.dll
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.pdb
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.genruntimeconfig.cache
+D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\bin\Debug\net5.0-windows\ref\wpf_jsoncontrols.dll

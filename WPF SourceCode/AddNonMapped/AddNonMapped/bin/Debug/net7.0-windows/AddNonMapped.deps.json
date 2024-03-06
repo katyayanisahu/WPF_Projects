@@ -1,0 +1,182 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AddNonMapped/1.0.0": {
+        "dependencies": {
+          "Extended.Wpf.Toolkit": "4.5.0",
+          "NumericUpDown": "1.0.0",
+          "Syncfusion.Shared.WPF": "21.2.4",
+          "WPFNumericUpDn": "1.0.0",
+          "WpfExtendedControls": "1.0.4"
+        },
+        "runtime": {
+          "AddNonMapped.dll": {}
+        }
+      },
+      "Extended.Wpf.Toolkit/4.5.0": {
+        "runtime": {
+          "lib/net5.0/Xceed.Wpf.AvalonDock.NET5.dll": {
+            "assemblyVersion": "4.5.0.0",
+            "fileVersion": "4.5.0.0"
+          },
+          "lib/net5.0/Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll": {
+            "assemblyVersion": "4.5.0.0",
+            "fileVersion": "4.5.0.0"
+          },
+          "lib/net5.0/Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll": {
+            "assemblyVersion": "4.5.0.0",
+            "fileVersion": "4.5.0.0"
+          },
+          "lib/net5.0/Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll": {
+            "assemblyVersion": "4.5.0.0",
+            "fileVersion": "4.5.0.0"
+          },
+          "lib/net5.0/Xceed.Wpf.Toolkit.NET5.dll": {
+            "assemblyVersion": "4.5.0.0",
+            "fileVersion": "4.5.0.0"
+          }
+        },
+        "resources": {
+          "lib/net5.0/cs-CZ/Xceed.Wpf.AvalonDock.NET5.resources.dll": {
+            "locale": "cs-CZ"
+          },
+          "lib/net5.0/de/Xceed.Wpf.AvalonDock.NET5.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net5.0/es/Xceed.Wpf.AvalonDock.NET5.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net5.0/fr/Xceed.Wpf.AvalonDock.NET5.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net5.0/hu/Xceed.Wpf.AvalonDock.NET5.resources.dll": {
+            "locale": "hu"
+          },
+          "lib/net5.0/it/Xceed.Wpf.AvalonDock.NET5.resources.dll": {
+            "locale": "it"
+          },
+          "lib/net5.0/ja-JP/Xceed.Wpf.AvalonDock.NET5.resources.dll": {
+            "locale": "ja-JP"
+          },
+          "lib/net5.0/pt-BR/Xceed.Wpf.AvalonDock.NET5.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net5.0/ro/Xceed.Wpf.AvalonDock.NET5.resources.dll": {
+            "locale": "ro"
+          },
+          "lib/net5.0/ru/Xceed.Wpf.AvalonDock.NET5.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net5.0/sv/Xceed.Wpf.AvalonDock.NET5.resources.dll": {
+            "locale": "sv"
+          },
+          "lib/net5.0/zh-Hans/Xceed.Wpf.AvalonDock.NET5.resources.dll": {
+            "locale": "zh-Hans"
+          }
+        }
+      },
+      "NumericUpDown/1.0.0": {
+        "runtime": {
+          "lib/NumericUpDown.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Syncfusion.Licensing/21.2.4": {
+        "runtime": {
+          "lib/net7.0-windows7.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "21.2.4.0",
+            "fileVersion": "21.2.4.0"
+          }
+        }
+      },
+      "Syncfusion.Shared.WPF/21.2.4": {
+        "dependencies": {
+          "Syncfusion.Licensing": "21.2.4"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Shared.WPF.dll": {
+            "assemblyVersion": "21.2.4.0",
+            "fileVersion": "21.2.4.0"
+          }
+        }
+      },
+      "WpfExtendedControls/1.0.4": {
+        "runtime": {
+          "lib/net5.0-windows7.0/WpfExtendedControls.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        },
+        "resources": {
+          "lib/net5.0-windows7.0/ru/WpfExtendedControls.resources.dll": {
+            "locale": "ru"
+          }
+        }
+      },
+      "WPFNumericUpDn/1.0.0": {
+        "runtime": {
+          "lib/net5.0-windows7.0/WPFNumericUpDn.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AddNonMapped/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Extended.Wpf.Toolkit/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oQP6Qyuz+3kETAC/s+cBEfb8Vzbju6pB7Q5czW4KdkAOpFJTA/SCox8caH6HLQxQ6Lwq2jCeSQOPJKlnpqpFOg==",
+      "path": "extended.wpf.toolkit/4.5.0",
+      "hashPath": "extended.wpf.toolkit.4.5.0.nupkg.sha512"
+    },
+    "NumericUpDown/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VIN5W5sG/mAJhLSTb3tFf3U+7DjY1Yf2HpSlKRfky+TC+0KZMrfqcr3lOytvvoBpreqtUb2t/RTP4EDdMgZ+Dw==",
+      "path": "numericupdown/1.0.0",
+      "hashPath": "numericupdown.1.0.0.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/21.2.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uUBW0vHMKqvegVcj5CouDE+rBuPp7mU0+xjNw9Niq+p9bt1KMFHC3pbSE9jZdydDv2a9fFFZzZCt5LU1vRbrrw==",
+      "path": "syncfusion.licensing/21.2.4",
+      "hashPath": "syncfusion.licensing.21.2.4.nupkg.sha512"
+    },
+    "Syncfusion.Shared.WPF/21.2.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-c2rYFDW7RNCUwByokMdLP/B6V0DHFnUWTfrEdfPh2639OqRb+s+fTu8Z/aCQF934QNOo1cSHt/RyPCtu/0jA+Q==",
+      "path": "syncfusion.shared.wpf/21.2.4",
+      "hashPath": "syncfusion.shared.wpf.21.2.4.nupkg.sha512"
+    },
+    "WpfExtendedControls/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NW5TARAJT3GycNR0CGTCjmkXyEo5aItJWNbNq0esl4NU3fRtV2hQubesrpGbc4ZeW5O7Z8POXVnCbsvN83A3eA==",
+      "path": "wpfextendedcontrols/1.0.4",
+      "hashPath": "wpfextendedcontrols.1.0.4.nupkg.sha512"
+    },
+    "WPFNumericUpDn/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9l0d521AaK9pkECGpq2CWx1BVSPaT/+zdNJhmEiZzVD9zgAAGJxeCYIP5w6wCbGADmlGDO1h2tt+GsGv26WG0g==",
+      "path": "wpfnumericupdn/1.0.0",
+      "hashPath": "wpfnumericupdn.1.0.0.nupkg.sha512"
+    }
+  }
+}

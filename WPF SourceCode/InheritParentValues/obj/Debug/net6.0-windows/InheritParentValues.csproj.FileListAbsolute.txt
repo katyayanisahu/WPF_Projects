@@ -1,0 +1,8 @@
+D:\FARRAGAUTUI\DYNAMICUI\InheritParentValues\obj\Debug\net6.0-windows\InheritParentValues.csproj.AssemblyReference.cache
+D:\FARRAGAUTUI\DYNAMICUI\InheritParentValues\obj\Debug\net6.0-windows\InheritParentValues_MarkupCompile.cache
+D:\FARRAGAUTUI\DYNAMICUI\InheritParentValues\obj\Debug\net6.0-windows\TreeViewProWindow.g.cs
+D:\FARRAGAUTUI\DYNAMICUI\InheritParentValues\obj\Debug\net6.0-windows\InheritParentValues_MarkupCompile.lref
+D:\FARRAGAUTUI\DYNAMICUI\InheritParentValues\obj\Debug\net6.0-windows\InheritParentValues.dll
+D:\FARRAGAUTUI\DYNAMICUI\InheritParentValues\obj\Debug\net6.0-windows\refint\InheritParentValues.dll
+D:\FARRAGAUTUI\DYNAMICUI\InheritParentValues\obj\Debug\net6.0-windows\InheritParentValues.pdb
+D:\FARRAGAUTUI\DYNAMICUI\InheritParentValues\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs

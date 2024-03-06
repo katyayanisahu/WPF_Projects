@@ -1,0 +1,37 @@
+﻿<ArcGIS defaultAssembly="NonMappedUI.dll" defaultNamespace="NonMappedUI" xmlns="http://schemas.esri.com/DADF/Registry" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.esri.com/DADF/Registry file:///C:/Program%20Files/ArcGIS/Pro/bin/ArcGIS.Desktop.Framework.xsd">
+  <AddInInfo id="{1f20be9b-8622-48ed-ad4f-0fbdbfeede82}" version="1.0" desktopVersion="3.1.41833">
+    <Name>NonMappedUI</Name>
+    <Description>NonMappedUI description</Description>
+    <Image>Images\AddinDesktop32.png</Image>
+    <Author>Techment Technology</Author>
+    <Company>Acme</Company>
+    <Date>5/10/2023 2:54:37 PM</Date>
+    <Subject>Framework</Subject>
+    <!-- Note subject can be one or more of these topics:
+                    Content, Framework, Editing, Geodatabase, Geometry, Geoprocessing, Layouts, Map Authoring, Map Exploration -->
+  </AddInInfo>
+  <modules>
+    <insertModule id="NonMappedUI_Module" className="Module1" autoLoad="false" caption="Module1">
+      <!-- uncomment to have the control hosted on a separate tab-->
+      <tabs>
+        <!--<tab id="NonMappedUI_Tab1" caption="New Tab">
+          <group refID="NonMappedUI_Group1"/>
+        </tab>-->
+      </tabs>
+      <groups>
+        <!-- comment this out if you have no controls on the Addin tab to avoid
+              an empty group-->
+        <group id="NonMappedUI_NonMappedParceUI" caption="NonMappedParceUI" appearsOnAddInTab="true" keytip="OK">
+          <!-- host controls within groups -->
+          <button refID="NonMappedUI_AddNonMappedParcel" size="large" />
+        </group>
+      </groups>
+      <controls>
+        <!-- add your controls here -->
+        <button id="NonMappedUI_AddNonMappedParcel" caption="AddNonMappedParcel" className="ShowAddNonMappedParcel" loadOnClick="true" smallImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonPurple16.png" largeImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonPurple32.png">
+          <tooltip heading="Tooltip Heading">Tooltip text<disabledText /></tooltip>
+        </button>
+      </controls>
+    </insertModule>
+  </modules>
+</ArcGIS>

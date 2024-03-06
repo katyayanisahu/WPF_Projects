@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lHnAmjz5Klrz+xN9zCBkqEf86g4YuZiJYCAsGHbJnqjOgimlnaNbnaAHHE2ykJusEsCTe0CTnaoQbjw5TnClbQ==",
+  "success": true,
+  "projectFilePath": "D:\\FARRAGAUTUI\\DYNAMICUI\\Phase2UI\\Phase2WorkflowsUI\\NonMappedUI\\NonMappedUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Techment Technology\\.nuget\\packages\\extended.wpf.toolkit\\4.5.0\\extended.wpf.toolkit.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

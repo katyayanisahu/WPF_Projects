@@ -1,0 +1,12 @@
+Q
+HD:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\App.xaml.csutf-8U
+LD:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\AssemblyInfo.csutf-8X
+OD:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\MainWindow.xaml.csutf-8\
+SD:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\Models\jsoncontrols.csutf-8Y
+PD:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\Models\TestModel.csutf-8Y
+PD:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\ViewModels\image.csutf-8a
+XD:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\ViewModels\TestViewModel.csutf-8p
+eD:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\MainWindow.g.csutf-8i
+^D:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\App.g.csutf-8ê
+ÑD:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\.NETCoreApp,Version=v5.0.AssemblyAttributes.csutf-8Å
+vD:\FARRAGAUTUI\TASKMANAGER\wpf_jsoncontrols\wpf_jsoncontrols\obj\Debug\net5.0-windows\wpf_jsoncontrols.AssemblyInfo.csutf-8

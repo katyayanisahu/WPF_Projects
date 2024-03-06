@@ -1,0 +1,703 @@
+[
+
+  {
+    "ID": "1",
+    "Type": "Label",
+    "Content": "Subdiv/Desc",
+    "Width": "60",
+    "Height": "15",
+    "row": 0,
+    "column": 0,
+    "ColumnSpan": 2,
+    "FontWeight": "Bold",
+    "FontFamily": "Segoe UI"
+    //"Background": "Esri_BackgroundPressedBrush",
+    //"Foreground": "Esri_TextControlBrush"
+
+
+  },
+  {
+    "ID": "2",
+    "Type": "Esri_TextBlockRegular",
+    "Content": " ",
+    "row": 1,
+    "column": 0,
+    "ColumnSpan": 2
+    //"Background": "Esri_BackgroundPressedBrush",
+    //"Light theme": "#0079C1"
+
+
+
+
+  },
+  {
+    "ID": "3",
+    "Type": "Label",
+    "Content": "Lot",
+    "Width": "60",
+    "Height": "15",
+    "row": 2,
+    "column": 0,
+    "ColumnSpan": 2,
+    "FontWeight": "Bold",
+    "FontFamily": "Segoe UI"
+    //"Background": "Esri_BackgroundPressedBrush",
+    //"Foreground": "Esri_TextControlBrush"
+
+  },
+  {
+    "ID": "4",
+    "Type": "Esri_TextBlockRegular",
+    "Content": " ",
+    "Width": "20",
+    "Height": "15",
+    "row": 3,
+    "column": 0,
+    "ColumnSpan": 2
+    // "Light theme": "#0079C1"
+
+  },
+  {
+    "ID": "5",
+    "Type": "Label",
+    "Content": "Tract",
+    "Width": "60",
+    "Height": "15",
+    "row": 4,
+    "column": 0,
+    "ColumnSpan": 2,
+    "FontFamily": "Segoe UI"
+    //"Background": "Esri_BackgroundPressedBrush",
+    //"Foreground": "Esri_TextControlBrush"
+
+  },
+  {
+    "ID": "6",
+    "Type": "Esri_TextBlockRegular",
+    "Content": " ",
+    "Width": "20",
+    "Height": "15",
+    "row": 5,
+    "column": 0,
+    "ColumnSpan": 2
+    //"LightTheme": "#0079C1"
+
+  },
+
+  {
+    "ID": "7",
+    "Type": "Label",
+    "Content": "Phase",
+    "Width": "60",
+    "Height": "15",
+    "row": 6,
+    "column": 0,
+    "ColumnSpan": 2,
+    "FontFamily": "Segoe UI"
+    //"Background": "Esri_BackgroundPressedBrush",
+    //"Foreground": "Esri_TextControlBrush"
+
+  },
+  {
+    "ID": "8",
+    "Type": "Esri_TextBlockRegular",
+    "Content": " ",
+    "Width": "20",
+    "Height": "15",
+    "row": 7,
+    "column": 0,
+    "ColumnSpan": 2
+
+  },
+  {
+    "ID": "9",
+    "Type": "Label",
+    "Content": "Section",
+    "Width": "60",
+    "Height": "15",
+    "row": 8,
+    "column": 0,
+    "ColumnSpan": 2,
+    "FontFamily": "Segoe UI"
+    //"Background": "Esri_BackgroundPressedBrush",
+    //"Foreground": "Esri_TextControlBrush"
+
+  },
+  {
+    "ID": "10",
+    "Type": "Esri_TextBlockRegular",
+    "Content": " ",
+    "Width": "20",
+    "Height": "15",
+    "row": 9,
+    "column": 0,
+    "ColumnSpan": 2
+
+  },
+  {
+    "ID": "11",
+    "Type": "Label",
+    "Content": "Block",
+    "Width": "60",
+    "Height": "15",
+    "row": 10,
+    "column": 0,
+    "ColumnSpan": 2,
+    "FontFamily": "Segoe UI"
+    //"Background": "Esri_BackgroundPressedBrush",
+    //"Foreground": "Esri_TextControlBrush"
+
+  },
+  {
+    "ID": "12",
+    "Type": "Esri_TextBlockRegular",
+    "Content": " ",
+    "Width": "20",
+    "Height": "15",
+    "row": 11,
+    "column": 0,
+    "ColumnSpan": 2
+
+  },
+  {
+    "ID": "13",
+    "Type": "Label",
+    "Content": "Situs Effective Date*",
+    "Width": "60",
+    "Height": "15",
+    "row": 12,
+    "column": 0,
+    "ColumnSpan": 2,
+    "FontFamily": "Segoe UI"
+    //"Background": "Esri_BackgroundPressedBrush",
+    //"Foreground": "Esri_TextControlBrush"
+
+  },
+  {
+    "ID": "14",
+    "Type": "Esri_TextBlockRegular",
+    "Content": " ",
+    "Width": "20",
+    "Height": "15",
+    "row": 13,
+    "column": 0,
+    "ColumnSpan": 2
+
+  },
+
+  {
+    "ID": "15",
+    "Type": "Label",
+    "Content": "Corner Lot",
+    "Width": "60",
+    "Height": "15",
+    "row": 14,
+    "column": 0,
+    "ColumnSpan": 2,
+    "Foreground": "#005e95",
+    "FontFamily": "Segoe UI"
+
+    //"Background": "Esri_BackgroundPressedBrush",
+    //"Foreground": "Esri_TextControlBrush"
+
+  },
+  {
+    "ID": "16",
+    "Type": "ComboBox",
+    "Width": "210",
+    "Height": "20",
+    "row": 15,
+    "column": 0,
+    "ColumnSpan": 2,
+    "Background": "#F2F2F2"
+
+
+
+  },
+  {
+    "ID": "17",
+    "Type": "Label",
+    "Content": "Township*",
+    "Width": "60",
+    "Height": "15",
+    "row": 16,
+    "column": 0,
+    "ColumnSpan": 2,
+    "Foreground": "#005e95",
+    "FontFamily": "Segoe UI"
+
+    //"Background": "Esri_BackgroundPressedBrush",
+    //"Foreground": "Esri_TextControlBrush"
+
+  },
+  {
+    "ID": "18",
+    "Type": "ComboBox",
+    "Content": "MURFREESBOR0",
+    "Width": "210",
+    "Height": "20",
+    "row": 17,
+    "column": 0,
+    "ColumnSpan": 2,
+    "Background": "#F2F2F2"
+    // "Background": "Esri_BackgroundPressedBrush"
+
+
+  },
+
+  {
+    "ID": "19",
+    "Type": "Label",
+    "Content": "Cama Map Scale",
+    "Width": "60",
+    "Height": "15",
+    "row": 18,
+    "column": 0,
+    "ColumnSpan": 2,
+    "Foreground": "#005e95",
+    "FontFamily": "Segoe UI"
+    //"Background": "Esri_BackgroundPressedBrush",
+    //"Foreground": "Esri_TextControlBrush"
+
+  },
+  {
+    "ID": "20",
+    "Type": "Esri_TextBlockRegular",
+    "Content": "00",
+    "Width": "20",
+    "Height": "15",
+    "row": 19,
+    "column": 0,
+    "ColumnSpan": 2
+
+  },
+  {
+    "ID": "21",
+    "Type": "Label",
+    "Content": "Centroid X Coordinate*",
+    "Width": "60",
+    "Height": "15",
+    "row": 20,
+    "column": 0,
+    "ColumnSpan": 2,
+    "Foreground": "#005e95",
+    "FontFamily": "Segoe UI"
+    //"Background": "Esri_BackgroundPressedBrush",
+    //"Foreground": "Esri_TextControlBrush"
+
+  },
+  {
+    "ID": "22",
+    "Type": "Esri_TextBlockRegular",
+    "Content": "258312447113981",
+    "Width": "20",
+    "Height": "15",
+    "row": 21,
+    "column": 0,
+    "ColumnSpan": 2,
+    "FontFamily": "Segoe UI"
+
+  },
+  {
+    "ID": "23",
+    "Type": "Label",
+    "Content": "Centroid Y Coordinate*",
+    "Width": "60",
+    "Height": "15",
+    "row": 22,
+    "column": 0,
+    "ColumnSpan": 2,
+    "Foreground": "#005e95"
+    //"Background": "Esri_BackgroundPressedBrush",
+    //"Foreground": "Esri_TextControlBrush"
+
+  },
+  {
+    "ID": "24",
+    "Type": "Esri_TextBlockRegular",
+    "Content": "968946644459873",
+    "Width": "20",
+    "Height": "15",
+    "row": 23,
+    "column": 0,
+    "ColumnSpan": 2,
+    "FontFamily": "Segoe UI"
+  },
+
+  {
+    "ID": "25",
+    "Type": "Label",
+    "Content": "NCPin* (GIS)",
+    "Width": "60",
+    "Height": "15",
+    "row": 24,
+    "column": 0,
+    "ColumnSpan": 2,
+    "FontFamily": "Segoe UI"
+    //"Background": "Esri_BackgroundPressedBrush",
+    //"Foreground": "Esri_TextControlBrush"
+
+  },
+  {
+    "ID": "26",
+    "Type": "Esri_TextBlockRegular",
+    "Content": "",
+    "row": 25,
+    "column": 0,
+    "ColumnSpan": 2
+
+  },
+  {
+    "ID": "27",
+    "Type": "Label",
+    "Content": "CAMA Key* (GIS) (CAMA Key)",
+    "Width": "60",
+    "Height": "15",
+    "row": 26,
+    "column": 0,
+    "ColumnSpan": 2,
+    "Foreground": "#005e95",
+    "FontFamily": "Segoe UI"
+    //"Background": "Esri_BackgroundPressedBrush",
+    //"Foreground": "Esri_TextControlBrush"
+
+
+  },
+  {
+    "ID": "28",
+    "Type": "Esri_TextBlockRegular",
+    "Content": "",
+    "Width": "20",
+    "Height": "15",
+    "row": 27,
+    "column": 0,
+    "ColumnSpan": 2
+
+  },
+  {
+    "ID": "29",
+    "Type": "Label",
+    "Content": "Parent Parcel REID*",
+    "Width": "60",
+    "Height": "15",
+    "row": 28,
+    "column": 0,
+    "ColumnSpan": 2,
+    "FontFamily": "Segoe UI"
+    //"Background": "Esri_BackgroundPressedBrush",
+    //"Foreground": "Esri_TextControlBrush"
+
+  },
+  {
+    "ID": "30",
+    "Type": "Esri_TextBlockRegular",
+    "Content": "",
+    "Width": "20",
+    "Height": "15",
+    "row": 29,
+    "column": 0,
+    "ColumnSpan": 2
+
+  },
+
+  {
+    "ID": "31",
+    "Type": "Label",
+    "Content": "Owner",
+    "Width": "60",
+    "Height": "15",
+    "row": 30,
+    "column": 0,
+    "ColumnSpan": 2,
+    "FontFamily": "Segoe UI"
+    //"Background": "Esri_BackgroundPressedBrush",
+    //"Foreground": "Esri_TextControlBrush"
+
+  },
+  {
+    "ID": "32",
+    "Type": "Esri_TextBlockRegular",
+    "Content": "",
+    "Width": "20",
+    "Height": "15",
+    "row": 31,
+    "column": 0,
+    "ColumnSpan": 2
+
+  },
+  {
+    "ID": "33",
+    "Type": "Label",
+    "Content": "Deed Book",
+    "Width": "60",
+    "Height": "15",
+    "row": 32,
+    "column": 0,
+    "ColumnSpan": 2,
+    "FontFamily": "Segoe UI"
+    //"Background": "Esri_BackgroundPressedBrush",
+    //"Foreground": "Esri_TextControlBrush"
+
+  },
+  {
+    "ID": "34",
+    "Type": "Esri_TextBlockRegular",
+    "Content": "",
+    "Width": "20",
+    "Height": "15",
+    "row": 33,
+    "column": 0,
+    "ColumnSpan": 2
+
+  },
+  {
+    "ID": "35",
+    "Type": "Label",
+    "Content": "Deed Page",
+    "Width": "60",
+    "Height": "15",
+    "row": 34,
+    "column": 0,
+    "ColumnSpan": 2,
+    "FontFamily": "Segoe UI"
+    //"Background": "Esri_BackgroundPressedBrush",
+    //"Foreground": "Esri_TextControlBrush"
+
+  },
+  {
+    "ID": "36",
+    "Type": "Esri_TextBlockRegular",
+    "Content": "",
+    "Width": "20",
+    "Height": "15",
+    "row": 35,
+    "column": 0,
+    "ColumnSpan": 2
+
+  },
+  {
+    "ID": "37",
+    "Type": "Label",
+    "Content": "Deed Date",
+    "Width": "60",
+    "Height": "15",
+    "row": 36,
+    "column": 0,
+    "ColumnSpan": 2,
+    "FontFamily": "Segoe UI"
+    //"Background": "Esri_BackgroundPressedBrush",
+    //"Foreground": "Esri_TextControlBrush"
+
+  },
+  {
+    "ID": "38",
+    "Type": "Esri_TextBlockRegular",
+    "Content": " ",
+    "Width": "20",
+    "Height": "15",
+    "row": 37,
+    "column": 0,
+    "ColumnSpan": 2
+
+  },
+
+  {
+    "ID": "39",
+    "Type": "Label",
+    "Content": "Deeded Acreage* (GIS)",
+    "Width": "60",
+    "Height": "15",
+    "row": 38,
+    "column": 0,
+    "ColumnSpan": 2,
+    "FontFamily": "Segoe UI"
+    //"Background": "Esri_BackgroundPressedBrush",
+    //"Foreground": "Esri_TextControlBrush"
+
+  },
+  {
+    "ID": "40",
+    "Type": "Esri_TextBlockRegular",
+    "Content": " ",
+    "Width": "20",
+    "Height": "15",
+    "row": 39,
+    "column": 0,
+    "ColumnSpan": 2
+
+  },
+  {
+    "ID": "41",
+    "Type": "Label",
+    "Content": "Assessed Acreage* (GIS)",
+    "Width": "60",
+    "Height": "15",
+    "row": 40,
+    "column": 0,
+    "ColumnSpan": 2,
+    "FontFamily": "Segoe UI"
+    //"Background": "Esri_BackgroundPressedBrush",
+    //"Foreground": "Esri_TextControlBrush"
+
+  },
+  {
+    "ID": "42",
+    "Type": "Esri_TextBlockRegular",
+    "Content": "258312447113981",
+    "Width": "20",
+    "Height": "15",
+    "row": 41,
+    "column": 0,
+    "ColumnSpan": 2
+
+  },
+  {
+    "ID": "43",
+    "Type": "Label",
+    "Content": "Map Book",
+    "Width": "60",
+    "Height": "15",
+    "row": 42,
+    "column": 0,
+    "ColumnSpan": 2,
+    "FontFamily": "Segoe UI"
+    //"Background": "Esri_BackgroundPressedBrush",
+    //"Foreground": "Esri_TextControlBrush"
+
+  },
+  {
+    "ID": "44",
+    "Type": "Esri_TextBlockRegular",
+    "Content": "968946644459873",
+    "Width": "20",
+    "Height": "15",
+    "row": 43,
+    "column": 0,
+    "ColumnSpan": 2
+  },
+
+  {
+    "ID": "45",
+    "Type": "Label",
+    "Content": "Map Page",
+    "Width": "60",
+    "Height": "15",
+    "row": 44,
+    "column": 0,
+    "ColumnSpan": 2,
+    "FontFamily": "Segoe UI"
+    //"Background": "Esri_BackgroundPressedBrush",
+    //"Foreground": "Esri_TextControlBrush"
+
+  },
+  {
+    "ID": "46",
+    "Type": "Esri_TextBlockRegular",
+    "Content": "",
+    "row": 45,
+    "column": 0,
+    "ColumnSpan": 2
+
+  },
+  {
+    "ID": "47",
+    "Type": "Label",
+    "Content": "Plat Book",
+    "Width": "60",
+    "Height": "15",
+    "row": 46,
+    "column": 0,
+    "ColumnSpan": 2,
+    "FontFamily": "Segoe UI",
+    "Background": "Esri_BackgroundPressedBrush",
+    "Foreground": "Esri_TextControlBrush"
+
+  },
+  {
+    "ID": "48",
+    "Type": "Esri_TextBlockRegular",
+    "Content": "",
+    "Width": "20",
+    "Height": "15",
+    "row": 47,
+    "column": 0,
+    "ColumnSpan": 2
+
+  },
+  {
+    "ID": "49",
+    "Type": "Label",
+    "Content": "Plat Page",
+    "Width": "60",
+    "Height": "15",
+    "row": 48,
+    "column": 0,
+    "ColumnSpan": 2,
+    "FontFamily": "Segoe UI"
+
+    //"Background": "Esri_BackgroundPressedBrush",
+    //"Foreground": "Esri_TextControlBrush"
+
+
+  },
+  {
+    "ID": "50",
+    "Type": "Esri_TextBlockRegular",
+    "Content": "",
+    "Width": "20",
+    "Height": "15",
+    "row": 49,
+    "column": 0,
+    "ColumnSpan": 2
+
+
+  },
+
+  {
+    "ID": "51",
+    "Type": "image",
+    "Path": "/DarkImages/img6.jpg",
+    "Width": "50",
+    "Height": "20",
+    "HorizontalAlignment": "Right",
+    "row": 1,
+    "column": 0,
+    "ColumnSpan": 4
+
+  },
+  {
+    "ID": "52",
+    "Type": "image",
+    "Path": "/DarkImages/img2.png",
+    "Width": "0",
+    "Height": "20",
+    "HorizontalAlignment": "Right",
+    "row": 3,
+    "column": 0
+  },
+  {
+    "ID": "53",
+    "Type": "image",
+    "Path": "/DarkImages/imgS.png",
+    "Width": "30",
+    "Height": "20",
+    "HorizontalAlignment": "Left",
+    "row": 2,
+    "column": 4
+  }
+  //{
+
+  //  "ID": "51",
+  //  "Type": "TreeView",
+  //  "Content": "",
+  //  "Width": "20",
+  //  "Height": "15",
+  //  "row": 50,
+  //  "column": 0,
+  //  "ColumnSpan": 2
+
+  //}
+
+
+
+]

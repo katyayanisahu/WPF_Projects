@@ -1,0 +1,43 @@
+﻿<Window x:Class="AddNonMapped.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AddNonMapped"
+        mc:Ignorable="d"
+        xmlns:wpfToolkit="http://schemas.xceed.com/wpf/xaml/toolkit"	
+         xmlns:syncfusion="http://schemas.syncfusion.com/wpf"   
+        
+        Title="Add Non-Mapped Parcels" Height="180" Width="380" ResizeMode="NoResize">
+
+    <Grid Margin="5">
+
+        <Grid Margin="2,2,2,2" Height="150" Width="370">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="25" />
+                <RowDefinition Height="25" />
+                <RowDefinition Height="25" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="30*" ></ColumnDefinition>
+                <ColumnDefinition Width="12*" ></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Label  Grid.Row="0" Grid.Column="0" Content="Number of Non-Mapped Parcels:"  Height="25" HorizontalAlignment="Left" Margin="10,10,0,15" Grid.RowSpan="2" ></Label>
+            <wpfToolkit:IntegerUpDown Grid.Row="0" Grid.ColumnSpan="2" Name="upDown" Height="22" Width="92" Margin="242,10,27,10" Grid.RowSpan="2"/>
+            <Label  Grid.Row="1" Grid.Column="0" Content="Non-Mapped Parcel Type:"   Height="25" Canvas.Left="10" Canvas.Top="10"  HorizontalAlignment="Left" Margin="10,20,0,5" Grid.RowSpan="2" />
+            <ComboBox Grid.Row="1" Grid.ColumnSpan="2" Margin="242,22,27,3" Grid.RowSpan="2" Height="22" Width="92" ItemsSource="{Binding listsNonMappedParcels}"/>
+
+            <Button Grid.Row="3" Content="Add" Width="60" Height="25" FontSize="14" HorizontalAlignment="Left" Padding="3,3,3,3" Margin="213,20,0,35" Background="#DFDFDF" Grid.RowSpan="2" Grid.ColumnSpan="2"/>
+
+            <Button Grid.Row="3" Content="Cancel" Width="60" Height="25" FontSize="14" HorizontalAlignment="Left" Padding="3,3,3,3" Background="#DFDFDF"
+                  Grid.Column="1" Margin="14,20,0,35" Grid.RowSpan="2"/>
+        </Grid>
+
+        <!--</Border>-->
+    </Grid>
+</Window>

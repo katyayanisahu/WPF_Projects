@@ -1,0 +1,73 @@
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB\bin\Debug\net6.0-windows\DemoLB.deps.json
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB\bin\Debug\net6.0-windows\DemoLB.dll
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB\bin\Debug\net6.0-windows\DemoLB.pdb
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB\obj\Debug\net6.0-windows\DemoLB.csproj.AssemblyReference.cache
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB\obj\Debug\net6.0-windows\ListItems.baml
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB\obj\Debug\net6.0-windows\ListItems.g.cs
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB\obj\Debug\net6.0-windows\DemoLB_MarkupCompile.cache
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB\obj\Debug\net6.0-windows\DemoLB.g.resources
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB\obj\Debug\net6.0-windows\DemoLB.GeneratedMSBuildEditorConfig.editorconfig
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB\obj\Debug\net6.0-windows\DemoLB.AssemblyInfoInputs.cache
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB\obj\Debug\net6.0-windows\DemoLB.AssemblyInfo.cs
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB\obj\Debug\net6.0-windows\DemoLB.csproj.CoreCompileInputs.cache
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB\obj\Debug\net6.0-windows\DemoLB.dll
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB\obj\Debug\net6.0-windows\refint\DemoLB.dll
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB\obj\Debug\net6.0-windows\DemoLB.pdb
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB\obj\Debug\net6.0-windows\ref\DemoLB.dll
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB (2)\DemoLB\bin\Debug\net6.0-windows\DemoLB.deps.json
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB (2)\DemoLB\bin\Debug\net6.0-windows\DemoLB.dll
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB (2)\DemoLB\bin\Debug\net6.0-windows\DemoLB.pdb
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB.csproj.AssemblyReference.cache
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\ListItems.baml
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\ListItems.g.cs
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB_MarkupCompile.cache
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB.g.resources
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB.GeneratedMSBuildEditorConfig.editorconfig
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB.AssemblyInfoInputs.cache
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB.AssemblyInfo.cs
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB.csproj.CoreCompileInputs.cache
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB.dll
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\refint\DemoLB.dll
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB.pdb
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\ref\DemoLB.dll
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB (2)\DemoLB\bin\Debug\net6.0-windows\Intersoft.Crosslight.dll
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB.csproj.CopyComplete
+D:\FARRAGAUTUI\DYNAMICUI\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB_MarkupCompile.lref
+D:\DemoLB (3)\DemoLB (2)\DemoLB\bin\Debug\net6.0-windows\DemoLB.deps.json
+D:\DemoLB (3)\DemoLB (2)\DemoLB\bin\Debug\net6.0-windows\DemoLB.dll
+D:\DemoLB (3)\DemoLB (2)\DemoLB\bin\Debug\net6.0-windows\DemoLB.pdb
+D:\DemoLB (3)\DemoLB (2)\DemoLB\bin\Debug\net6.0-windows\Intersoft.Crosslight.dll
+D:\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB.csproj.AssemblyReference.cache
+D:\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\ListItems.g.cs
+D:\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB_MarkupCompile.cache
+D:\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB_MarkupCompile.lref
+D:\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\ListItems.baml
+D:\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB.g.resources
+D:\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB.AssemblyInfoInputs.cache
+D:\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB.AssemblyInfo.cs
+D:\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB.csproj.CoreCompileInputs.cache
+D:\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB.csproj.CopyComplete
+D:\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB.dll
+D:\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\refint\DemoLB.dll
+D:\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB.pdb
+D:\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\ref\DemoLB.dll
+D:\WPF,MVVM\DemoLB (3)\DemoLB (2)\DemoLB\bin\Debug\net6.0-windows\DemoLB.deps.json
+D:\WPF,MVVM\DemoLB (3)\DemoLB (2)\DemoLB\bin\Debug\net6.0-windows\DemoLB.dll
+D:\WPF,MVVM\DemoLB (3)\DemoLB (2)\DemoLB\bin\Debug\net6.0-windows\DemoLB.pdb
+D:\WPF,MVVM\DemoLB (3)\DemoLB (2)\DemoLB\bin\Debug\net6.0-windows\Intersoft.Crosslight.dll
+D:\WPF,MVVM\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB.csproj.AssemblyReference.cache
+D:\WPF,MVVM\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\ListItems.g.cs
+D:\WPF,MVVM\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB_MarkupCompile.cache
+D:\WPF,MVVM\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB_MarkupCompile.lref
+D:\WPF,MVVM\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\ListItems.baml
+D:\WPF,MVVM\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB.g.resources
+D:\WPF,MVVM\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF,MVVM\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB.AssemblyInfoInputs.cache
+D:\WPF,MVVM\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB.AssemblyInfo.cs
+D:\WPF,MVVM\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB.csproj.CoreCompileInputs.cache
+D:\WPF,MVVM\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB.csproj.CopyComplete
+D:\WPF,MVVM\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB.dll
+D:\WPF,MVVM\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\refint\DemoLB.dll
+D:\WPF,MVVM\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\DemoLB.pdb
+D:\WPF,MVVM\DemoLB (3)\DemoLB (2)\DemoLB\obj\Debug\net6.0-windows\ref\DemoLB.dll

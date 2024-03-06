@@ -1,0 +1,155 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfUi2"
+        xmlns:System="clr-namespace:System;assembly=System.Runtime" x:Class="WpfUi2.MainWindow"
+        mc:Ignorable="d"
+        Title="Validate and Post Transaction" Height="450" Width="800" Icon="images.png">
+    <Grid>
+        <TabControl>
+            <TabItem Header="Transaction Validation">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="50"/>
+                    </Grid.RowDefinitions>
+                    <StackPanel Grid.Row="0">
+                        <TextBlock Margin="25,0,0,0" Text="Errors (Must be fixed before posting)"/>
+                        <ListBox Margin="20,0,20,0" Height="150" Background="Gray"/>
+                    </StackPanel>
+                    <StackPanel Grid.Row="1">
+                        <TextBlock Margin="25,0,0,-20" Text="Warning"/>
+
+                        <ListBox Margin="20, 20,20,-20" Height="150" Background="Gray"/>
+
+                    </StackPanel>
+                    <StackPanel Grid.Row="2" Background="#eee">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="Auto"/>
+
+                            </Grid.ColumnDefinitions>
+                            <StackPanel Grid.Column="0"  Orientation="Horizontal" HorizontalAlignment="Right">
+                                <Button Content="Validate Transaction" Margin="10" Width="150" Height="30"/>
+                                <Button Content="Validate and Post Transaction" Margin="0,0,0,0" Width="200" Height="30"/>
+                                <Button Content="Close" Margin="10,10,25,10" Width="80" Height="30"/>
+
+                            </StackPanel>
+                        </Grid>
+
+                    </StackPanel>
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="Feature Validation">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="50"/>
+
+                    </Grid.RowDefinitions>
+                    <StackPanel Grid.Row="0">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="*"/>
+
+                            </Grid.ColumnDefinitions>
+                            <StackPanel Grid.Column="0">
+                                <TextBlock Margin="25,10,0,0" Text="GIS Feature Classes"/>
+                                <ListBox Margin="20,0,20,0" Height="150" Width="180" SelectionChanged="ListBox_SelectionChanged">
+                                    <System:String>PARCEL_LINES</System:String>
+                                    <System:String>ADDRESSPOINT</System:String>
+                                    <System:String>TOWNSHIPS</System:String>
+                                    <System:String>TAX_DISTRACTS</System:String>
+                                    <System:String>FLOOD_MAPS</System:String>
+                                    <System:String>COMBINED_ZONING</System:String>
+                                    <System:String>SOILS</System:String>
+                                    <System:String>PARCELS</System:String>
+                                    <System:String>NON_MAPPED_PARCELS</System:String>
+                                    <System:String>PS_HETEORD_PARCEL</System:String>
+                                </ListBox>
+                                <RadioButton Margin="50,5,0,0" Content="Show Errors Only"/>
+                                <RadioButton Margin="50,5,0,0" Content="Show Warnings Only" />
+                                <RadioButton Margin="50,5,0,0" Content="Show All Edits"/>
+
+                            </StackPanel>
+                            <!--<StackPanel Grid.Column="1">
+                                <TextBlock Margin="15,10,0,0" Text="Inserts and Updates"/>
+                                <DataGrid Height="100" HorizontalGridLinesBrush="Black" VerticalGridLinesBrush="#FF0B0101" >
+                                    <DataGrid.AlternatingRowBackground>
+                                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                            <GradientStop Color="Black"/>
+                                            <GradientStop Color="White" Offset="1"/>
+                                        </LinearGradientBrush>
+                                    </DataGrid.AlternatingRowBackground>
+
+                                    <DataGrid.Columns>
+                                        <DataGridTextColumn></DataGridTextColumn>
+
+                                        <DataGridTextColumn Header="OID" Binding="{Binding XPath=@FirstName}" FontFamily="Arial" FontStyle="Italic" />
+                                        <DataGridTextColumn Header="FEATURE_KEY" Binding="{Binding XPath=@LastName}" FontFamily="Arial" FontWeight="Bold" />
+                                        <DataGridTextColumn Header="UPDATE_DELETE" Binding="{Binding XPath=@LastName}" FontFamily="Arial" FontWeight="Bold" />
+                                        <DataGridTextColumn Header="ERROR_MESSAGE" Binding="{Binding XPath=@LastName}" FontFamily="Arial" FontWeight="Bold" />
+                                        <DataGridTextColumn Header="ERROR_HANDLE" Binding="{Binding XPath=@LastName}" FontFamily="Arial" FontWeight="Bold" />
+                                    </DataGrid.Columns>
+                                </DataGrid>
+                                <TextBlock Margin="15,0,0,0" Text="Deletes and Updates"/>
+                                <DataGrid Height="100" HorizontalGridLinesBrush="Black" VerticalGridLinesBrush="#FF0B0101" >
+                                    <DataGrid.AlternatingRowBackground>
+                                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                            <GradientStop Color="Black"/>
+                                            <GradientStop Color="White" Offset="1"/>
+                                        </LinearGradientBrush>
+                                    </DataGrid.AlternatingRowBackground>
+                                    
+                                    <DataGrid.Columns>
+                                        <DataGridTextColumn></DataGridTextColumn>
+                                        
+                                        <DataGridTextColumn Header="OID" Binding="{Binding XPath=@FirstName}" FontFamily="Arial" FontStyle="Italic" />
+                                        <DataGridTextColumn Header="FEATURE_KEY" Binding="{Binding XPath=@LastName}" FontFamily="Arial" FontWeight="Bold" />
+                                        <DataGridTextColumn Header="UPDATE_DELETE" Binding="{Binding XPath=@LastName}" FontFamily="Arial" FontWeight="Bold" />
+                                        <DataGridTextColumn Header="ERROR_MESSAGE" Binding="{Binding XPath=@LastName}" FontFamily="Arial" FontWeight="Bold" />
+                                        <DataGridTextColumn Header="ERROR_HANDLE" Binding="{Binding XPath=@LastName}" FontFamily="Arial" FontWeight="Bold" />
+                                    </DataGrid.Columns>
+                                </DataGrid>
+
+
+
+
+                            </StackPanel>-->
+                            <StackPanel Grid.Column="1" >
+                                <TextBlock Margin="15,10,0,0" Text="Inserts and Updates"/>
+                                <DataGrid Height="120" HorizontalAlignment="left" Background="Gray" Margin="12,0,0,0" Name="dataGrid2" VerticalAlignment="Top" Width="500" />
+                                <TextBlock Margin="15,10,0,0" Text="Deletes and Updates"/>
+                                <DataGrid Height="120" HorizontalAlignment="left" Background="Gray" Margin="12,21,0,0" Name="dataGrid1" VerticalAlignment="Top" Width="500" />
+                            </StackPanel>
+                        </Grid>
+                    </StackPanel>
+                    <StackPanel Grid.Row="1" Background="#eee">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="Auto"/>
+
+                            </Grid.ColumnDefinitions>
+                            <StackPanel Grid.Column="0"  Orientation="Horizontal" HorizontalAlignment="Right">
+                                <Button Content="Validate Transaction" Margin="10" Width="150" Height="30"/>
+                                <Button Content="Validate and Post Transaction" Margin="0,0,0,0" Width="200" Height="30"/>
+                                <Button Content="Close" Margin="10,10,25,10" Width="80" Height="30"/>
+
+                            </StackPanel>
+                        </Grid>
+
+                    </StackPanel>
+
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

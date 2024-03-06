@@ -1,0 +1,5 @@
+D:\FARRAGAUTUI\DYNAMICUI\DEMOProject\DEMOProject\obj\Debug\net6.0-windows\DEMOProject.csproj.AssemblyReference.cache
+D:\FARRAGAUTUI\DYNAMICUI\DEMOProject\DEMOProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\FARRAGAUTUI\DYNAMICUI\DEMOProject\DEMOProject\obj\Debug\net6.0-windows\App.g.cs
+D:\FARRAGAUTUI\DYNAMICUI\DEMOProject\DEMOProject\obj\Debug\net6.0-windows\DEMOProject_MarkupCompile.cache
+D:\FARRAGAUTUI\DYNAMICUI\DEMOProject\DEMOProject\obj\Debug\net6.0-windows\DEMOProject_MarkupCompile.lref

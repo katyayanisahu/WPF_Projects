@@ -1,0 +1,60 @@
+﻿<controls:ProWindow x:Class="MatchingAddressess.Matching"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:controls="clr-namespace:ArcGIS.Desktop.Framework.Controls;assembly=ArcGIS.Desktop.Framework"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:extensions="clr-namespace:ArcGIS.Desktop.Extensions;assembly=ArcGIS.Desktop.Extensions"
+        mc:Ignorable="d"
+        xmlns:ui="clr-namespace:MatchingAddressess"
+        Title="Matching Addresses" Height="220" Width="860"    
+        WindowStartupLocation="CenterOwner">
+
+    <controls:ProWindow.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <extensions:DesignOnlyResourceDictionary Source="pack://application:,,,/ArcGIS.Desktop.Framework;component\Themes\Default.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </controls:ProWindow.Resources>
+
+    <Grid>
+        
+        <!--Row Definitions-->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <!--Column Definitions-->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Row="0">
+            <WrapPanel>
+                <ListView Grid.Column="1" Height="140" Width="840" Grid.ColumnSpan="2" Margin="4,0,0,0" ItemsSource="{Binding Data}">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Width="110" Header="St Prefix" DisplayMemberBinding="{Binding Path= St_Prefix}" />
+                            <GridViewColumn Width="110" Header="St Name"  DisplayMemberBinding="{Binding Path=St_Name}" />
+                            <GridViewColumn Width="110"  Header="St Type" DisplayMemberBinding="{Binding Path=St_Type}" />
+                            <GridViewColumn Width="120" Header="St Suffix" DisplayMemberBinding="{Binding Path=St_Suffix}" />
+                            <GridViewColumn Width="120" Header="PJ" DisplayMemberBinding="{Binding Path=PJ}" />
+                            <GridViewColumn Width="120"  Header="City/Zip" DisplayMemberBinding="{Binding Path=CityZip}" />
+                            <GridViewColumn Width="130"  Header="Unique Seq of Street" DisplayMemberBinding="{Binding Path=UniqueSeqofStreet}" />
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </WrapPanel>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Right" Margin="0,10,0,0">
+            <Button Name="Select"  Style="{DynamicResource Esri_Button}" Grid.Column="0" Content="Select" Width="80" Height="25" Margin="0,0,5,0"/>
+            <Button Name="Cancel"  Style="{DynamicResource Esri_Button}" Grid.Column="1" Content="Cancel" Width="80" Height="25"/>
+        </StackPanel>
+
+    </Grid>
+</controls:ProWindow>

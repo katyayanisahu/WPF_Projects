@@ -1,0 +1,41 @@
+﻿<Window x:Class="AcreageUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AcreageUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="492">
+    <Grid>
+        <Grid Margin="4,4,4,4" Background="#F2F2F2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"></RowDefinition>
+                <RowDefinition Height="30"></RowDefinition>
+                <RowDefinition Height="30"></RowDefinition>
+                <RowDefinition Height="30"></RowDefinition>
+                <RowDefinition Height="30"></RowDefinition>
+                <RowDefinition Height="30"></RowDefinition>
+                <RowDefinition Height="30"></RowDefinition>
+                <RowDefinition Height="30"></RowDefinition>
+                <RowDefinition Height="30"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="50*" ></ColumnDefinition>
+                <ColumnDefinition Width="50*" ></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Label  Grid.Row="0" Grid.Column="0" Content="Assessed Acreage" ToolTip="Assessed Acreage"  FontWeight="Bold" HorizontalAlignment="Left" Height="25" ></Label>
+            <Label Grid.Row="2" Grid.Column="0" Content="AssessedAcreageValue" Height="25" Canvas.Left="10" Canvas.Top="10"></Label>
+            <Label  Grid.Row="0" Grid.Column="1" Content="CalculatedAcreage" ToolTip="Calculated Acreage" Canvas.Left="10" Canvas.Top="10" FontWeight="Bold" HorizontalAlignment="Left" Height="25" ></Label>
+            <Label Grid.Row="2" Grid.Column="1" Content="CalculatedAcreageValue" Height="25"></Label>
+            <Label  Grid.Row="4" Grid.Column="0" Content="Acreage Difference" ToolTip="Acreage Difference" FontWeight="Bold" HorizontalAlignment="Left" Height="25"></Label>
+            <Label Grid.Row="6" Grid.Column="0" Content="AcreageDifferenceValue" Height="25"></Label>
+            <Label  Grid.Row="4" Grid.Column="1" Content="Percentage Difference" ToolTip="Percentage Difference" FontWeight="Bold" HorizontalAlignment="Left" Height="25"></Label>
+            <Label Grid.Row="6" Grid.Column="1" Content="PercentageDifferenceValue" Height="25"></Label>
+            <Button Grid.Row="8" Grid.ColumnSpan="2" Content="Ok" Width="80" FontSize="14" HorizontalAlignment="Center" Padding="3,3,3,3" Margin="-40,0,0,0" Background="#DFDFDF"
+              Command="{Binding CancelCommand}"/>
+
+
+        </Grid>
+    </Grid>
+</Window>

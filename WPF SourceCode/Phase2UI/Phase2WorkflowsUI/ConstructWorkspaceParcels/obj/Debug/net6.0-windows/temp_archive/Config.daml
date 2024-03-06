@@ -1,0 +1,37 @@
+﻿<ArcGIS defaultAssembly="ConstructWorkspaceParcels.dll" defaultNamespace="ConstructWorkspaceParcels" xmlns="http://schemas.esri.com/DADF/Registry" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.esri.com/DADF/Registry file:///C:/Program%20Files/ArcGIS/Pro/bin/ArcGIS.Desktop.Framework.xsd">
+  <AddInInfo id="{89902963-05f1-4f27-9375-925f0870e856}" version="1.0" desktopVersion="3.1.41833">
+    <Name>ConstructWorkspaceParcels</Name>
+    <Description>ConstructWorkspaceParcels description</Description>
+    <Image>Images\AddinDesktop32.png</Image>
+    <Author>Techment Technology</Author>
+    <Company>Acme</Company>
+    <Date>5/14/2023 3:59:44 PM</Date>
+    <Subject>Framework</Subject>
+    <!-- Note subject can be one or more of these topics:
+                    Content, Framework, Editing, Geodatabase, Geometry, Geoprocessing, Layouts, Map Authoring, Map Exploration -->
+  </AddInInfo>
+  <modules>
+    <insertModule id="ConstructWorkspaceParcels_Module" className="Module1" autoLoad="false" caption="Module1">
+      <!-- uncomment to have the control hosted on a separate tab-->
+      <tabs>
+        <!--<tab id="ConstructWorkspaceParcels_Tab1" caption="New Tab">
+          <group refID="ConstructWorkspaceParcels_Group1"/>
+        </tab>-->
+      </tabs>
+      <groups>
+        <!-- comment this out if you have no controls on the Addin tab to avoid
+              an empty group-->
+        <group id="ConstructWorkspaceParcels_ConstructParcels" caption="ConstructParcels" appearsOnAddInTab="true">
+          <!-- host controls within groups -->
+          <button refID="ConstructWorkspaceParcels_ConstructPolygons" size="large" />
+        </group>
+      </groups>
+      <controls>
+        <!-- add your controls here -->
+        <button id="ConstructWorkspaceParcels_ConstructPolygons" caption="ConstructPolygons" className="ShowConstructPolygons" loadOnClick="true" smallImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonPurple16.png" largeImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonPurple32.png">
+          <tooltip heading="Tooltip Heading">Tooltip text<disabledText /></tooltip>
+        </button>
+      </controls>
+    </insertModule>
+  </modules>
+</ArcGIS>

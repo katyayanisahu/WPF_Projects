@@ -1,0 +1,79 @@
+﻿<controls:ProWindow x:Class="DemoLB.ListItems"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:controls="clr-namespace:ArcGIS.Desktop.Framework.Controls;assembly=ArcGIS.Desktop.Framework"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+           xmlns:ui="clr-namespace:DemoLB"            
+        xmlns:extensions="clr-namespace:ArcGIS.Desktop.Extensions;assembly=ArcGIS.Desktop.Extensions"
+        mc:Ignorable="d"
+         d:DataContext="{Binding Path=ui.ListItemsViewModel}"
+        Title="Select Parcel" Height="350" Width="330"
+        WindowStartupLocation="CenterOwner"
+    >
+    <controls:ProWindow.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <extensions:DesignOnlyResourceDictionary Source="pack://application:,,,/ArcGIS.Desktop.Framework;component\Themes\Default.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </controls:ProWindow.Resources>
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <Grid Margin="0,0,4,-0.2">
+        <Grid>
+            <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+        </Grid.RowDefinitions>
+
+                <ListBox x:Name="listBox" Height="250" Width="310" Grid.Row="0" Margin="0,10,5,0" ItemsSource="{Binding NamesCollection}" 
+                         >
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel>
+                                <TextBlock >
+                                   <Run Text="{Binding REID}"/>
+                                   <Run Text="{Binding PIN}"/>
+                                </TextBlock>
+                                
+                                <!--<TextBlock>
+                                    <Run Text="REID:7974935"></Run>
+                                </TextBlock>-->
+                               
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+
+                </ListBox>
+
+            </Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+
+            </Grid.ColumnDefinitions>
+
+            <Button Content="Cancel" Width="120" Height="25" Grid.Row="0"  FontSize="14" Background="#DFDFDF" Grid.Column="0" HorizontalAlignment="left"
+                  Margin="5,265,1,5"/>
+            <Button Content="Choose Parcel"   Background="#DFDFDF" FontSize="14" Grid.Row="0" Grid.Column="1" Height="25" VerticalAlignment="Bottom"
+                Width="137" Margin="48,50,1,5"/>
+        </Grid>
+
+    </Grid>
+    </ScrollViewer>
+</controls:ProWindow>

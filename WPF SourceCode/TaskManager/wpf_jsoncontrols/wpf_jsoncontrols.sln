@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpf_jsoncontrols", "wpf_jsoncontrols\wpf_jsoncontrols.csproj", "{DD2F4BDA-0CB6-4897-B5DF-F52E2DAEE20D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD2F4BDA-0CB6-4897-B5DF-F52E2DAEE20D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD2F4BDA-0CB6-4897-B5DF-F52E2DAEE20D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD2F4BDA-0CB6-4897-B5DF-F52E2DAEE20D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD2F4BDA-0CB6-4897-B5DF-F52E2DAEE20D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0580F3E9-4500-41A1-B41D-36685A1E692D}
+	EndGlobalSection
+EndGlobal

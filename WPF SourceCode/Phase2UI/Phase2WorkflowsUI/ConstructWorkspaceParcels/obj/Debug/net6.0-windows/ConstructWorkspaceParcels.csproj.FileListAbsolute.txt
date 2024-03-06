@@ -1,0 +1,17 @@
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\ConstructWorkspaceParcels\bin\Debug\net6.0-windows\ConstructWorkspaceParcels.deps.json
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\ConstructWorkspaceParcels\bin\Debug\net6.0-windows\ConstructWorkspaceParcels.dll
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\ConstructWorkspaceParcels\bin\Debug\net6.0-windows\ConstructWorkspaceParcels.pdb
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\ConstructWorkspaceParcels\obj\Debug\net6.0-windows\ConstructWorkspaceParcels.csproj.AssemblyReference.cache
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\ConstructWorkspaceParcels\obj\Debug\net6.0-windows\ConstructPolygons.baml
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\ConstructWorkspaceParcels\obj\Debug\net6.0-windows\Styles\DefaultStyle.baml
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\ConstructWorkspaceParcels\obj\Debug\net6.0-windows\ConstructPolygons.g.cs
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\ConstructWorkspaceParcels\obj\Debug\net6.0-windows\ConstructWorkspaceParcels_MarkupCompile.cache
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\ConstructWorkspaceParcels\obj\Debug\net6.0-windows\ConstructWorkspaceParcels.g.resources
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\ConstructWorkspaceParcels\obj\Debug\net6.0-windows\ConstructWorkspaceParcels.GeneratedMSBuildEditorConfig.editorconfig
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\ConstructWorkspaceParcels\obj\Debug\net6.0-windows\ConstructWorkspaceParcels.AssemblyInfoInputs.cache
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\ConstructWorkspaceParcels\obj\Debug\net6.0-windows\ConstructWorkspaceParcels.AssemblyInfo.cs
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\ConstructWorkspaceParcels\obj\Debug\net6.0-windows\ConstructWorkspaceParcels.csproj.CoreCompileInputs.cache
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\ConstructWorkspaceParcels\obj\Debug\net6.0-windows\ConstructWorkspaceParcels.dll
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\ConstructWorkspaceParcels\obj\Debug\net6.0-windows\refint\ConstructWorkspaceParcels.dll
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\ConstructWorkspaceParcels\obj\Debug\net6.0-windows\ConstructWorkspaceParcels.pdb
+D:\FARRAGAUTUI\DYNAMICUI\Phase2Workflows\NonMappedUI\ConstructWorkspaceParcels\obj\Debug\net6.0-windows\ref\ConstructWorkspaceParcels.dll

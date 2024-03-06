@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZHIg2dzf0G/LQIxmytsyYpqAeYxbEhW58eXwWqJ6YLzWC2lA2OjsAAx2qwOXLUVebRCA5rYXqUYb5V/Ie1DAJg==",
+  "success": true,
+  "projectFilePath": "D:\\WPF,MVVM\\FARRAGAUTUI\\DYNAMICUI\\OverlayCalculation (3)\\OverlayCalculation (2)\\OverlayCalculation\\OverlayCalculation\\OverlayCalculation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Techment Technology\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Techment Technology\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\Techment Technology\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Techment Technology\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Techment Technology\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

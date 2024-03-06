@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "k1VHBSeigX8UT5P3NEWWMbL6Qv9kCmK1WYMKopLfWofb1hHHE9yd4ieanyEkQgUEm6Y+tKyMbM2024MAk10EZA==",
+  "success": true,
+  "projectFilePath": "D:\\WPF,MVVM\\FARRAGAUTUI\\DYNAMICUI\\NewTreeViewUI\\NewTreeViewUI\\NewTreeViewUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Techment Technology\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Techment Technology\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Techment Technology\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Techment Technology\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

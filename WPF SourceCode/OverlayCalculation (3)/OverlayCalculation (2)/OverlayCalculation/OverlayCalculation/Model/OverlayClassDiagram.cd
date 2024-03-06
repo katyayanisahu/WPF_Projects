@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Farragut.Core.Overlay">
+    <Position X="11" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Model\Overlay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Farragut.Core.Column">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Column.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Farragut.Core.DisplayColumns">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\DisplayColumns.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Farragut.Core.DataGridView">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAQAACAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Model\DataGridView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Farragut.Core.DataGridViewConfigurations">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\DataGridViewConfigurations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Farragut.Core.Fields">
+    <Position X="1.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Model\Fields.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Farragut.Core.FeatureClass">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAIAAAQAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Model\FeatureClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Farragut.Core.Form">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAQAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Model\Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Farragut.Core.FormConfigurations">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Model\FormConfigurations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Farragut.Core.OverlayTools">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\OverlayTools.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

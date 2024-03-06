@@ -1,0 +1,60 @@
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation\OverlayCalculation\bin\Debug\net6.0-windows\OverlayCalculation.deps.json
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation\OverlayCalculation\bin\Debug\net6.0-windows\OverlayCalculation.dll
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation\OverlayCalculation\bin\Debug\net6.0-windows\OverlayCalculation.pdb
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation.csproj.AssemblyReference.cache
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\Overlay.baml
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\Overlay.g.cs
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation_MarkupCompile.cache
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation.g.resources
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation.AssemblyInfoInputs.cache
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation.AssemblyInfo.cs
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation.csproj.CoreCompileInputs.cache
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation.dll
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\refint\OverlayCalculation.dll
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation.pdb
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\ref\OverlayCalculation.dll
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation\OverlayCalculation\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation\OverlayCalculation\bin\Debug\net6.0-windows\Prism.dll
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation.csproj.CopyComplete
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation\OverlayCalculation\bin\Debug\net6.0-windows\OverlayConfig.json
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\bin\Debug\net6.0-windows\OverlayConfig.json
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\bin\Debug\net6.0-windows\OverlayCalculation.deps.json
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\bin\Debug\net6.0-windows\OverlayCalculation.dll
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\bin\Debug\net6.0-windows\OverlayCalculation.pdb
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\bin\Debug\net6.0-windows\Prism.dll
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation.csproj.AssemblyReference.cache
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\Overlay.baml
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\Overlay.g.cs
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation_MarkupCompile.cache
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation.g.resources
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation.AssemblyInfoInputs.cache
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation.AssemblyInfo.cs
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation.csproj.CoreCompileInputs.cache
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation.csproj.CopyComplete
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation.dll
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\refint\OverlayCalculation.dll
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation.pdb
+D:\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\ref\OverlayCalculation.dll
+D:\WPF,MVVM\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\bin\Debug\net6.0-windows\OverlayConfig.json
+D:\WPF,MVVM\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\bin\Debug\net6.0-windows\OverlayCalculation.deps.json
+D:\WPF,MVVM\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\bin\Debug\net6.0-windows\OverlayCalculation.dll
+D:\WPF,MVVM\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\bin\Debug\net6.0-windows\OverlayCalculation.pdb
+D:\WPF,MVVM\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\WPF,MVVM\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\bin\Debug\net6.0-windows\Prism.dll
+D:\WPF,MVVM\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation.csproj.AssemblyReference.cache
+D:\WPF,MVVM\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\Overlay.baml
+D:\WPF,MVVM\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\Overlay.g.cs
+D:\WPF,MVVM\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation_MarkupCompile.cache
+D:\WPF,MVVM\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation.g.resources
+D:\WPF,MVVM\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF,MVVM\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation.AssemblyInfoInputs.cache
+D:\WPF,MVVM\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation.AssemblyInfo.cs
+D:\WPF,MVVM\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation.csproj.CoreCompileInputs.cache
+D:\WPF,MVVM\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation.csproj.CopyComplete
+D:\WPF,MVVM\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation.dll
+D:\WPF,MVVM\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\refint\OverlayCalculation.dll
+D:\WPF,MVVM\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\OverlayCalculation.pdb
+D:\WPF,MVVM\FARRAGAUTUI\DYNAMICUI\OverlayCalculation (3)\OverlayCalculation (2)\OverlayCalculation\OverlayCalculation\obj\Debug\net6.0-windows\ref\OverlayCalculation.dll

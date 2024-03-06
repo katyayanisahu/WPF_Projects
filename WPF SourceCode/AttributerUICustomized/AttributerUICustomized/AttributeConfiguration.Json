@@ -1,0 +1,422 @@
+ [
+      {
+        "Description": "NCPin",
+        "TagName": "CHILD.PIN",
+        "Length": 10,
+        "ParcelFieldName": "PIN",
+        "Inheritable": "FALSE",
+        "HelperTool": "PS.Denali.dll,UniquePinCalculatorHelper",
+        "Required": "TRUE",
+        "Editable": "TRUE"
+      },
+      {
+        "Description": "CAMA Key",
+        "TagName": "CHILD.PARCEL_PK",
+        "Required": "TRUE",
+        "Editable": "FALSE",
+        "ParcelFieldName": "PARCEL_PK",
+        "Inheritable": "FALSE",
+        "HelperTool": "PS.Denali.dll,GetParcelPKHelper"
+      },
+      {
+        "Description": "Real Estate ID",
+        "TagName": "CHILD.REIDNO",
+        "Required": "TRUE",
+        "Editable": "TRUE",
+        "ParcelFieldName": "REID",
+        "Inheritable": "FALSE",
+        "HelperTool": "PS.Denali.dll,GetREIDNoHelper2",
+        "AttributerFieldType": "BOTH"
+      },
+      {
+        "Description": "Parent Parcel REID",
+        "TagName": "CHILD.PARENT_PARCEL_REID",
+        "Required": "TRUE",
+        "Editable": "FALSE",
+        "Inheritable": "FALSE",
+        "HelperTool": "PS.Denali.dll,ParcelSelectHelper",
+        "AttributerFieldType": "CHILDONLY",
+        "AttributerFieldType2": "MAPPEDONLY"
+      },
+      {
+        "Description": "Owner",
+        "TagName": "CHILD.CUST_PRIOROWNER",
+        "Editable": "FALSE",
+        "Visible": "FALSE",
+        "Length": 500
+      },
+      {
+        "Description": "Document Type (Specify Document OR Deed Info)",
+        "TagName": "CHILD.DOCUMENT_TYPE",
+        "AttributerFieldType": "CHILDONLY",
+        "ControlType": "ComboBox",
+        "CodedDomain": "DOTY",
+        "AttributerFieldType2": "MAPPEDONLY",
+        "DiscoverOnly": "TRUE"
+      },
+      {
+        "Description": "Document Number",
+        "TagName": "CHILD.DOCUMENT_NUMBER",
+        "AttributerFieldType": "CHILDONLY",
+        "AttributerFieldType2": "MAPPEDONLY",
+        "DiscoverOnly": "TRUE"
+      },
+      {
+        "Description": "Document Date",
+        "TagName": "CHILD.DOCUMENT_DATE",
+        "AttributerFieldType": "CHILDONLY",
+        "AttributerFieldType2": "MAPPEDONLY",
+        "DiscoverOnly": "TRUE",
+        "StorageFormat": "yyyy-MM-dd",
+        "DataType": "DATE",
+        "Tooltip": "Enter date in mm-dd-yyyy or mm/dd/yyyy format."
+      },
+      {
+        "Description": "Deed Book",
+        "TagName": "CHILD_DEED.BOOK",
+        "AttributerFieldType": "CHILDONLY",
+        "AttributerFieldType2": "MAPPEDONLY",
+        "Length": 6
+      },
+      {
+        "Description": "Deed Page",
+        "TagName": "CHILD_DEED.PAGE",
+        "AttributerFieldType": "CHILDONLY",
+        "AttributerFieldType2": "MAPPEDONLY",
+        "Length": 5
+      },
+      {
+        "Description": "Deed Date",
+        "TagName": "CHILD_DEED.DATE",
+        "AttributerFieldType": "CHILDONLY",
+        "AttributerFieldType2": "MAPPEDONLY",
+        "DataType": "DATE",
+        "Tooltip": "Enter date in mm-dd-yyyy or mm/dd/yyyy format."
+      },
+      {
+        "Description": "Calculated Acreage",
+        "TagName": "CHILD.CALCULATED_ACREAGE",
+        "Required": "FALSE",
+        "ParcelFieldName": "CALCULATED_ACREAGE",
+        "Inheritable": "FALSE",
+        "HelperTool": "OverlayHelper.dll,CalculatedAcreageHelper",
+        "AttributerFieldType2": "MAPPEDONLY",
+        "Editable": "FALSE",
+        "CustomConf": {
+          "AssessedAcreageField": "CHILD.ASSESSED_ACREAGE"
+        }
+      },
+      {
+        "Description": "Deeded Acreage",
+        "TagName": "CHILD.DEEDED_ACREAGE",
+        "Required": "TRUE",
+        "Inheritable": "FALSE",
+        "ParcelFieldName": "DEEDED_ACREAGE",
+        "AttributerFieldType2": "MAPPEDONLY",
+        "DataType": "NUMERIC",
+        "StorageFormat": "#.####",
+        "Editable": "TRUE",
+        "HelperTool": "Integration.Utility.dll, CopyAttributerFieldValues",
+        "CustomConf": {
+          "CopyFields": {
+            "Field": "CHILD.CALCULATED_ACREAGE"
+          }
+        }
+      },
+      {
+        "Description": "Assessed Acreage",
+        "TagName": "CHILD.ASSESSED_ACREAGE",
+        "Required": "TRUE",
+        "Inheritable": "FALSE",
+        "ParcelFieldName": "ASSESSED_ACREAGE",
+        "AttributerFieldType2": "MAPPEDONLY",
+        "DataType": "NUMERIC",
+        "StorageFormat": "#.####",
+        "Editable": "TRUE",
+        "HelperTool": "Integration.Utility.dll, CopyAttributerFieldValues",
+        "CustomConf": {
+          "CopyFields": {
+            "Field": "CHILD.DEEDED_ACREAGE"
+          }
+        }
+      },
+      {
+        "Description": "Billing Class",
+        "TagName": "CHILD.BILLING_CLASS",
+        "Required": "TRUE",
+        "AttributerFieldType": "CHILDONLY",
+        "ControlType": "ComboBox",
+        "CodedDomain": "ACCT",
+        "AttributerFieldType2": "MAPPEDONLY",
+        "DiscoverOnly": "TRUE"
+      },
+      {
+        "Description": "Exempt Code",
+        "TagName": "CHILD.EXEMPT_CODE",
+        "AttributerFieldType": "CHILDONLY",
+        "ControlType": "ComboBox",
+        "CodedDomain": "EXEM",
+        "AttributerFieldType2": "MAPPEDONLY",
+        "DiscoverOnly": "TRUE"
+      },
+      {
+        "Description": "Planning Juris",
+        "TagName": "CHILD.PLANNING_JURISDICTION",
+        "Inheritable": "TRUE",
+        "AttributerFieldType2": "NONMAPPEDONLY",
+        "DefaultValue": 20
+      },
+      {
+        "Description": "Map Book",
+        "TagName": "CHILD_MAP.BOOK",
+        "Length": 6,
+        "AttributerFieldType": "BOTH",
+        "AttributerFieldType2": "MAPPEDONLY"
+      },
+      {
+        "Description": "Map Page",
+        "TagName": "CHILD_MAP.PAGE",
+        "Length": 6,
+        "AttributerFieldType": "BOTH",
+        "AttributerFieldType2": "MAPPEDONLY"
+      },
+      {
+        "Description": "Plat Book",
+        "TagName": "CHILD_PLAT.BOOK",
+        "Length": 6,
+        "HelperTool": "Integration.Utility.dll, CopyAttributerFieldValues",
+        "CustomConf": {
+          "CopyFields": {
+            "Field": "CHILD_DEED.BOOK"
+          }
+        }
+      },
+      {
+        "Description": "Plat Page",
+        "TagName": "CHILD_PLAT.PAGE",
+        "Length": 6,
+        "HelperTool": "Integration.Utility.dll, CopyAttributerFieldValues",
+        "CustomConf": {
+          "CopyFields": {
+            "Field": "CHILD_DEED.PAGE"
+          }
+        }
+      },
+      {
+        "Description": "Subdiv/Desc",
+        "TagName": "CHILD.SUBDIVISION_NUMBER",
+        "Length": 50
+      },
+      {
+        "Description": "Tract",
+        "TagName": "CHILD.TRACT",
+        "Length": 5
+      },
+      {
+        "Description": "Phase",
+        "TagName": "CHILD.PHASE",
+        "Length": 5
+      },
+      {
+        "Description": "Section",
+        "TagName": "CHILD.SECTION",
+        "Length": 5
+      },
+      {
+        "Description": "Block",
+        "TagName": "CHILD.BLOCK",
+        "Length": 5
+      },
+      {
+        "Description": "Situs Effective Date",
+        "TagName": "CHILD.ANNEX_DATE",
+        "AttributerFieldType2": "MAPPEDONLY",
+        "StorageFormat": "yyyy-MM-dd",
+        "DataType": "DATE",
+        "Tooltip": "Enter date in mm-dd-yyyy or mm/dd/yyyy format.",
+        "Required": "TRUE"
+      },
+      {
+        "Description": "Building Number",
+        "TagName": "CHILD.BUILDING_NUMBER",
+        "Required": "FALSE",
+        "AttributerFieldType2": "NONMAPPEDONLY"
+      },
+      {
+        "Description": "Unit Number",
+        "TagName": "CHILD.UNIT_NUMBER",
+        "Required": "FALSE",
+        "AttributerFieldType2": "NONMAPPEDONLY"
+      },
+      {
+        "Description": "Street Number",
+        "TagName": "CHILD.STREET_NUMBER",
+        "AttributerFieldType2": "NONMAPPEDONLY",
+        "Length": 10
+      },
+      {
+        "Description": "Street Misc",
+        "TagName": "CHILD.STREET_MISCELLANEOUS",
+        "AttributerFieldType2": "NONMAPPEDONLY",
+        "Length": 5
+      },
+      {
+        "Description": "Directional Prefix",
+        "TagName": "CHILD.DIRECTIONAL_PREFIX",
+        "AttributerFieldType2": "NONMAPPEDONLY",
+        "ControlType": "ComboBox",
+        "CodedDomain": "STDR"
+      },
+      {
+        "Description": "Street Name",
+        "TagName": "CHILD.STREET_NAME",
+        "AttributerFieldType2": "NONMAPPEDONLY"
+      },
+      {
+        "Description": "Street Type",
+        "TagName": "CHILD.STREET_TYPE",
+        "AttributerFieldType2": "NONMAPPEDONLY",
+        "ControlType": "ComboBox",
+        "CodedDomain": "STTY"
+      },
+      {
+        "Description": "Directional Suffix",
+        "TagName": "CHILD.DIRECTIONAL_SUFFIX",
+        "AttributerFieldType2": "NONMAPPEDONLY",
+        "ControlType": "ComboBox",
+        "CodedDomain": "STDR"
+      },
+      {
+        "Description": "Postal City",
+        "TagName": "CHILD.SITUS_CITY",
+        "AttributerFieldType2": "NONMAPPEDONLY"
+      },
+      {
+        "Description": "Postal Zip",
+        "TagName": "CHILD.SITUS_ZIP",
+        "AttributerFieldType2": "NONMAPPEDONLY"
+      },
+      {
+        "Description": "In Care Of",
+        "TagName": "CHILD.IN_CARE_OF",
+        "AttributerFieldType": "ADHOCONLY",
+        "AttributerFieldType2": "MAPPEDONLY",
+        "DiscoverOnly": "TRUE"
+      },
+      {
+        "Description": "Mailing Address 1",
+        "TagName": "CHILD.MAILING_ADDRESS1",
+        "AttributerFieldType": "ADHOCONLY",
+        "AttributerFieldType2": "MAPPEDONLY",
+        "DiscoverOnly": "TRUE",
+        "Required": "TRUE"
+      },
+      {
+        "Description": "Mailing Address 2",
+        "TagName": "CHILD.MAILING_ADDRESS2",
+        "AttributerFieldType": "ADHOCONLY",
+        "AttributerFieldType2": "MAPPEDONLY",
+        "DiscoverOnly": "TRUE"
+      },
+      {
+        "Description": "Mailing Address 3",
+        "TagName": "CHILD.MAILING_ADDRESS3",
+        "AttributerFieldType": "ADHOCONLY",
+        "AttributerFieldType2": "MAPPEDONLY",
+        "DiscoverOnly": "TRUE"
+      },
+      {
+        "Description": "Mailing Street Number",
+        "TagName": "CHILD.MAILING_STREET_NUMBER",
+        "AttributerFieldType": "ADHOCONLY",
+        "AttributerFieldType2": "MAPPEDONLY"
+      },
+      {
+        "Description": "Mailing Street Name",
+        "TagName": "CHILD.MAILING_STREET_NAME",
+        "AttributerFieldType": "ADHOCONLY",
+        "AttributerFieldType2": "MAPPEDONLY"
+      },
+      {
+        "Description": "Mailing City",
+        "TagName": "CHILD.MAILING_CITY",
+        "AttributerFieldType": "ADHOCONLY",
+        "AttributerFieldType2": "MAPPEDONLY",
+        "DiscoverOnly": "TRUE",
+        "Required": "TRUE"
+      },
+      {
+        "Description": "Mailing State",
+        "TagName": "CHILD.MAILING_STATE",
+        "AttributerFieldType": "ADHOCONLY",
+        "AttributerFieldType2": "MAPPEDONLY",
+        "DiscoverOnly": "TRUE",
+        "Required": "TRUE"
+      },
+      {
+        "Description": "Mailing Zip",
+        "TagName": "CHILD.MAILING_ZIP",
+        "AttributerFieldType": "ADHOCONLY",
+        "AttributerFieldType2": "MAPPEDONLY",
+        "DiscoverOnly": "TRUE"
+      },
+      {
+        "Description": "Mailing Country",
+        "TagName": "CHILD.MAILING_COUNTRY",
+        "AttributerFieldType": "CHILDONLY",
+        "AttributerFieldType2": "MAPPEDONLY",
+        "DiscoverOnly": "TRUE"
+      },
+      {
+        "Description": "Unique Number",
+        "TagName": "CHILD.UNIQUE_NUMBER",
+        "AttributerFieldType2": "NONMAPPEDONLY",
+        "DefaultValue": 1
+      },
+      {
+        "Description": "Corner Lot",
+        "TagName": "CHILD.CORNER_LOT",
+        "AttributerFieldType": "CHILDONLY",
+        "ControlType": "ComboBox",
+        "CodedDomain": "CLOT",
+        "AttributerFieldType2": "BOTH",
+        "DefaultValue": "N"
+      },
+      {
+        "Description": "Township",
+        "TagName": "CHILD.TOWNSHIP",
+        "Inheritable": "TRUE",
+        "AttributerFieldType2": "MAPPEDONLY",
+        "ControlType": "ComboBox",
+        "CodedDomain": "TWSP",
+        "Required": "TRUE",
+        "Overlay": "PS.TOWNSHIPS,TOWNSIP_CODE,TRUE,0"
+      },
+      {
+        "Description": "Cama Map Scale",
+        "TagName": "CHILD.MAP_SCALE",
+        "Inheritable": "TRUE",
+        "AttributerFieldType": "CHILDONLY",
+        "AttributerFieldType2": "MAPPEDONLY",
+        "DefaultValue": 0
+      },
+      {
+        "Description": "Centroid X Coordinate",
+        "TagName": "CHILD.CUST_XCOORD",
+        "Required": "TRUE",
+        "Editable": "TRUE",
+        "Inheritable": "FALSE",
+        "HelperTool": "OverlayHelper.dll,XCalculator",
+        "DataType": "NUMERIC"
+      },
+  {
+    "Description": "Centroid Y Coordinate",
+    "TagName": "CHILD.CUST_YCOORD",
+    "Required": "TRUE",
+    "Editable": "TRUE",
+    "Inheritable": "FALSE",
+    "HelperTool": "OverlayHelper.dll,YCalculator",
+    "DataType": "NUMERIC"
+  }
+
+ ]

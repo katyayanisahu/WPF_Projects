@@ -1,0 +1,37 @@
+﻿<ArcGIS defaultAssembly="AttributerUICustomized.dll" defaultNamespace="AttributerUICustomized" xmlns="http://schemas.esri.com/DADF/Registry" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.esri.com/DADF/Registry file:///C:/Program%20Files/ArcGIS/Pro/bin/ArcGIS.Desktop.Framework.xsd">
+  <AddInInfo id="{399ea49c-70df-4d8b-ab06-fef73b572ace}" version="1.0" desktopVersion="3.0.36056">
+    <Name>AttributerUICustomized</Name>
+    <Description>AttributerUICustomized description</Description>
+    <Image>Images\AddinDesktop32.png</Image>
+    <Author>Techment Technology</Author>
+    <Company>Acme</Company>
+    <Date>11/24/2022 2:02:29 PM</Date>
+    <Subject>Framework</Subject>
+    <!-- Note subject can be one or more of these topics:
+                    Content, Framework, Editing, Geodatabase, Geometry, Geoprocessing, Layouts, Map Authoring, Map Exploration -->
+  </AddInInfo>
+  <modules>
+    <insertModule id="AttributerUICustomized_Module" className="Module1" autoLoad="false" caption="Module1">
+      <!-- uncomment to have the control hosted on a separate tab-->
+      <tabs>
+        <!--<tab id="AttributerUICustomized_Tab1" caption="New Tab">
+          <group refID="AttributerUICustomized_Group1"/>
+        </tab>-->
+      </tabs>
+      <groups>
+        <!-- comment this out if you have no controls on the Addin tab to avoid
+              an empty group-->
+        <group id="AttributerUICustomized_Group1" caption="Group 1" appearsOnAddInTab="true">
+          <!-- host controls within groups -->
+          <button refID="AttributerUICustomized_ATTRIBUTER" size="large" />
+        </group>
+      </groups>
+      <controls>
+        <!-- add your controls here -->
+        <button id="AttributerUICustomized_ATTRIBUTER" caption="ATTRIBUTER" className="ShowATTRIBUTER" loadOnClick="true" smallImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonPurple16.png" largeImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonPurple32.png">
+          <tooltip heading="Tooltip Heading">Tooltip text<disabledText /></tooltip>
+        </button>
+      </controls>
+    </insertModule>
+  </modules>
+</ArcGIS>

@@ -1,0 +1,82 @@
+﻿<controls:ProWindow x:Class="TreeViewMVVMBinding.TREEVIEW"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:controls="clr-namespace:ArcGIS.Desktop.Framework.Controls;assembly=ArcGIS.Desktop.Framework"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:extensions="clr-namespace:ArcGIS.Desktop.Extensions;assembly=ArcGIS.Desktop.Extensions"
+                    
+        xmlns:vm="clr-namespace:TreeViewMVVMBinding"
+               xmlns:model="clr-namespace:TreeViewMVVMBinding"
+                    
+        mc:Ignorable="d"
+     Title="Inherit Parent Values" Height="600" Width="400"
+        WindowStartupLocation="CenterOwner"
+    >
+    <controls:ProWindow.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <extensions:DesignOnlyResourceDictionary Source="pack://application:,,,/ArcGIS.Desktop.Framework;component\Themes\Default.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </controls:ProWindow.Resources>
+    <Grid>
+        <Grid Margin="0,20,-5,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+
+
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition Width="auto" />
+
+            </Grid.ColumnDefinitions>
+
+            <Button Content="Use Values" Width="80" Height="25" Grid.Row="0" Foreground="Black"  Background="#DFDFDF" Grid.Column="0" HorizontalAlignment="left"
+                  Margin="80,495,1,5"/>
+            <Button Content="Use Values and Close"   Background="#DFDFDF" Grid.Row="0" Grid.Column="1" Height="25" VerticalAlignment="Bottom"
+                Width="130" Margin="5,50,1,5"/>
+            <Button Content="Close"   Background="#DFDFDF" Grid.Row="0" Grid.Column="2" Height="25" VerticalAlignment="Bottom"
+                Width="60" Margin="5,50,1,5"/>
+
+        </Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+
+
+            </Grid.RowDefinitions>
+
+            <TreeView x:Name="MainTreeView"  Height="500" Width="350" Margin="10" Grid.Row="0" VerticalAlignment="Stretch" ItemsSource="{Binding Parents}">
+                <TreeView.ItemTemplate>
+                    <HierarchicalDataTemplate ItemsSource="{Binding Childrens}" DataType="{x:Type vm:Parent}">
+                        <CheckBox  Focusable="False"  Content="{Binding ParentName}" VerticalAlignment="Center"/>
+
+                        <HierarchicalDataTemplate.ItemTemplate>
+                            <HierarchicalDataTemplate DataType="{x:Type vm:Children}">
+
+                                <CheckBox  Focusable="False"  Content="{Binding ChildrenName}" VerticalAlignment="Center"/>
+
+                           
+                            </HierarchicalDataTemplate>
+                        </HierarchicalDataTemplate.ItemTemplate>
+                    </HierarchicalDataTemplate>
+                </TreeView.ItemTemplate>
+            </TreeView>
+
+        </Grid>
+        </Grid>
+</controls:ProWindow>

@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\WPF,MVVM\\FARRAGAUTUI\\DYNAMICUI\\TASKMANAGER\\wpf_jsoncontrols\\wpf_jsoncontrols\\wpf_jsoncontrols.csproj": {}
+  },
+  "projects": {
+    "D:\\WPF,MVVM\\FARRAGAUTUI\\DYNAMICUI\\TASKMANAGER\\wpf_jsoncontrols\\wpf_jsoncontrols\\wpf_jsoncontrols.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WPF,MVVM\\FARRAGAUTUI\\DYNAMICUI\\TASKMANAGER\\wpf_jsoncontrols\\wpf_jsoncontrols\\wpf_jsoncontrols.csproj",
+        "projectName": "wpf_jsoncontrols",
+        "projectPath": "D:\\WPF,MVVM\\FARRAGAUTUI\\DYNAMICUI\\TASKMANAGER\\wpf_jsoncontrols\\wpf_jsoncontrols\\wpf_jsoncontrols.csproj",
+        "packagesPath": "C:\\Users\\Techment Technology\\.nuget\\packages\\",
+        "outputPath": "D:\\WPF,MVVM\\FARRAGAUTUI\\DYNAMICUI\\TASKMANAGER\\wpf_jsoncontrols\\wpf_jsoncontrols\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Techment Technology\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Prism.Core": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

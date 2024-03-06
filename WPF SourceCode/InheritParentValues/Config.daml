@@ -1,0 +1,37 @@
+﻿<ArcGIS defaultAssembly="InheritParentValues.dll" defaultNamespace="InheritParentValues" xmlns="http://schemas.esri.com/DADF/Registry" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.esri.com/DADF/Registry file:///C:/Program%20Files/ArcGIS/Pro/bin/ArcGIS.Desktop.Framework.xsd">
+  <AddInInfo id="{6f1cacae-a297-4aef-9ffe-f7f8a6e1ae99}" version="1.0" desktopVersion="3.0.36056">
+    <Name>InheritParentValues</Name>
+    <Description>InheritParentValues description</Description>
+    <Image>Images\AddinDesktop32.png</Image>
+    <Author>Techment Technology</Author>
+    <Company>Acme</Company>
+    <Date>10/21/2022 5:33:15 PM</Date>
+    <Subject>Framework</Subject>
+    <!-- Note subject can be one or more of these topics:
+                    Content, Framework, Editing, Geodatabase, Geometry, Geoprocessing, Layouts, Map Authoring, Map Exploration -->
+  </AddInInfo>
+  <modules>
+    <insertModule id="InheritParentValues_Module" className="Module1" autoLoad="false" caption="Module1">
+      <!-- uncomment to have the control hosted on a separate tab-->
+      <tabs>
+        <!--<tab id="InheritParentValues_Tab1" caption="New Tab">
+          <group refID="InheritParentValues_Group1"/>
+        </tab>-->
+      </tabs>
+      <groups>
+        <!-- comment this out if you have no controls on the Addin tab to avoid
+              an empty group-->
+        <group id="InheritParentValues_Group1" caption="Group 1" appearsOnAddInTab="true">
+          <!-- host controls within groups -->
+          <button refID="InheritParentValues_TreeViewProWindow" size="large" />
+        </group>
+      </groups>
+      <controls>
+        <!-- add your controls here -->
+        <button id="InheritParentValues_TreeViewProWindow" caption="TreeViewProWindow" className="ShowTreeViewProWindow" loadOnClick="true" smallImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonPurple16.png" largeImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonPurple32.png">
+          <tooltip heading="Tooltip Heading">Tooltip text<disabledText /></tooltip>
+        </button>
+      </controls>
+    </insertModule>
+  </modules>
+</ArcGIS>
